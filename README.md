@@ -1,6 +1,6 @@
 # Human-AI
 
-#Overview
+# Overview
 Human AI provides big five personality traits, which are often referred to as OCEAN are: Openness, Conscientiousness, Extroversion, Agreeableness, and Neuroticism. These five traits represent broad domains of human behaviour and account for differences in both personality and decision making.
 
 # Features
