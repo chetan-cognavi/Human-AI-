@@ -9,10 +9,10 @@ Human AI provides big five personality traits, which are often referred to as OC
 3. Based on user's responses model will analyse the scores and provides Summary, Unique 5 Personality Traits & Feedback.
 
 # Installation 
-Before running the script, ensure that the following Python libraries are installed:
+Before running the script, ensure that the following Python libraries are installed from requirements.txt:
 
 pip install -r requirements.txt
 
 # Usage
-1.Click on start Questionare & Answer 20 questions.
-2. Post submitting the answers wait for feedbacks, summary, unique 5 traits. 
+1. Click on Start Questionare & Answer 20 questions.
+2. Post submitting the answers you will receive feedbacks, summary, unique 5 traits. 
