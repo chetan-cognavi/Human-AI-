@@ -1,0 +1,2001 @@
+SET,BigFive,Question Code,Question
+1,Agreeableness,AGR10,I make people feel at ease.
+1,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+1,Agreeableness,AGR5,I am not interested in other people's problems.
+1,Agreeableness,AGR8,I take time out for others.
+1,Agreeableness,AGR9,I feel others' emotions.
+1,Conscientiousness,CSN1,I am always prepared.
+1,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+1,Conscientiousness,CSN3,I pay attention to details.
+1,Conscientiousness,CSN7,I like order.
+1,Neuroticism,EST10,I often feel blue.
+1,Neuroticism,EST5,I am easily disturbed.
+1,Neuroticism,EST6,I get upset easily.
+1,Neuroticism,EST8,I have frequent mood swings.
+1,Extraversion,EXT3,I feel comfortable around people.
+1,Extraversion,EXT7,I talk to a lot of different people at parties.
+1,Extraversion,EXT8,I don't like to draw attention to myself.
+1,Extraversion,EXT9,I don't mind being the center of attention.
+1,Openness,OPN2,I have difficulty understanding abstract ideas.
+1,Openness,OPN5,I have excellent ideas.
+1,Openness,OPN9,I spend time reflecting on things.
+2,Agreeableness,AGR1,I feel little concern for others.
+2,Agreeableness,AGR10,I make people feel at ease.
+2,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+2,Agreeableness,AGR5,I am not interested in other people's problems.
+2,Agreeableness,AGR9,I feel others' emotions.
+2,Conscientiousness,CSN1,I am always prepared.
+2,Conscientiousness,CSN3,I pay attention to details.
+2,Conscientiousness,CSN5,I get chores done right away.
+2,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+2,Neuroticism,EST10,I often feel blue.
+2,Neuroticism,EST6,I get upset easily.
+2,Neuroticism,EST8,I have frequent mood swings.
+2,Neuroticism,EST9,I have a low tolerance for irritation.
+2,Extraversion,EXT3,I feel comfortable around people.
+2,Extraversion,EXT6,I have little to say.
+2,Extraversion,EXT8,I don't like to draw attention to myself.
+2,Extraversion,EXT9,I don't mind being the center of attention.
+2,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+2,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+2,Openness,OPN9,I spend time reflecting on things.
+3,Agreeableness,AGR10,I make people feel at ease.
+3,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+3,Agreeableness,AGR5,I am not interested in other people's problems.
+3,Agreeableness,AGR8,I take time out for others.
+3,Agreeableness,AGR9,I feel others' emotions.
+3,Conscientiousness,CSN10,I am exacting in my work.
+3,Conscientiousness,CSN3,I pay attention to details.
+3,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+3,Conscientiousness,CSN9,I follow a schedule.
+3,Neuroticism,EST2,I am relaxed most of the time.
+3,Neuroticism,EST4,I seldom feel blue.
+3,Neuroticism,EST5,I am easily disturbed.
+3,Neuroticism,EST7,I change my mood a lot.
+3,Extraversion,EXT3,I feel comfortable around people.
+3,Extraversion,EXT5,I start conversations.
+3,Extraversion,EXT7,I talk to a lot of different people at parties.
+3,Extraversion,EXT8,I don't like to draw attention to myself.
+3,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+3,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+3,Openness,OPN9,I spend time reflecting on things.
+4,Agreeableness,AGR1,I feel little concern for others.
+4,Agreeableness,AGR10,I make people feel at ease.
+4,Agreeableness,AGR2,I am interested in people.
+4,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+4,Agreeableness,AGR9,I feel others' emotions.
+4,Conscientiousness,CSN1,I am always prepared.
+4,Conscientiousness,CSN3,I pay attention to details.
+4,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+4,Conscientiousness,CSN7,I like order.
+4,Neuroticism,EST10,I often feel blue.
+4,Neuroticism,EST3,I worry about things.
+4,Neuroticism,EST8,I have frequent mood swings.
+4,Neuroticism,EST9,I have a low tolerance for irritation.
+4,Extraversion,EXT10,I am quiet around strangers.
+4,Extraversion,EXT4,I keep in the background.
+4,Extraversion,EXT5,I start conversations.
+4,Extraversion,EXT8,I don't like to draw attention to myself.
+4,Openness,OPN1,I have a rich vocabulary.
+4,Openness,OPN10,I am full of ideas.
+4,Openness,OPN9,I spend time reflecting on things.
+5,Agreeableness,AGR1,I feel little concern for others.
+5,Agreeableness,AGR10,I make people feel at ease.
+5,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+5,Agreeableness,AGR5,I am not interested in other people's problems.
+5,Conscientiousness,CSN1,I am always prepared.
+5,Conscientiousness,CSN10,I am exacting in my work.
+5,Conscientiousness,CSN3,I pay attention to details.
+5,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+5,Neuroticism,EST4,I seldom feel blue.
+5,Neuroticism,EST6,I get upset easily.
+5,Neuroticism,EST8,I have frequent mood swings.
+5,Neuroticism,EST9,I have a low tolerance for irritation.
+5,Extraversion,EXT2,I prefer to listen more than I speak.
+5,Extraversion,EXT3,I feel comfortable around people.
+5,Extraversion,EXT5,I start conversations.
+5,Extraversion,EXT8,I don't like to draw attention to myself.
+5,Openness,OPN4,I am not interested in abstract ideas.
+5,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+5,Openness,OPN7,I am quick to understand things.
+5,Openness,OPN9,I spend time reflecting on things.
+6,Agreeableness,AGR10,I make people feel at ease.
+6,Agreeableness,AGR2,I am interested in people.
+6,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+6,Agreeableness,AGR8,I take time out for others.
+6,Agreeableness,AGR9,I feel others' emotions.
+6,Conscientiousness,CSN3,I pay attention to details.
+6,Conscientiousness,CSN5,I get chores done right away.
+6,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+6,Conscientiousness,CSN9,I follow a schedule.
+6,Neuroticism,EST1,I get stressed out easily.
+6,Neuroticism,EST10,I often feel blue.
+6,Neuroticism,EST8,I have frequent mood swings.
+6,Neuroticism,EST9,I have a low tolerance for irritation.
+6,Extraversion,EXT1,I am the life of the party.
+6,Extraversion,EXT4,I keep in the background.
+6,Extraversion,EXT5,I start conversations.
+6,Extraversion,EXT8,I don't like to draw attention to myself.
+6,Openness,OPN3,I have a vivid imagination.
+6,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+6,Openness,OPN9,I spend time reflecting on things.
+7,Agreeableness,AGR10,I make people feel at ease.
+7,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+7,Agreeableness,AGR4,I sympathize with others' feelings.
+7,Agreeableness,AGR8,I take time out for others.
+7,Agreeableness,AGR9,I feel others' emotions.
+7,Conscientiousness,CSN10,I am exacting in my work.
+7,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+7,Conscientiousness,CSN3,I pay attention to details.
+7,Conscientiousness,CSN9,I follow a schedule.
+7,Neuroticism,EST4,I seldom feel blue.
+7,Neuroticism,EST6,I get upset easily.
+7,Neuroticism,EST8,I have frequent mood swings.
+7,Neuroticism,EST9,I have a low tolerance for irritation.
+7,Extraversion,EXT1,I am the life of the party.
+7,Extraversion,EXT3,I feel comfortable around people.
+7,Extraversion,EXT5,I start conversations.
+7,Extraversion,EXT8,I don't like to draw attention to myself.
+7,Openness,OPN10,I am full of ideas.
+7,Openness,OPN2,I have difficulty understanding abstract ideas.
+7,Openness,OPN9,I spend time reflecting on things.
+8,Agreeableness,AGR10,I make people feel at ease.
+8,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+8,Agreeableness,AGR4,I sympathize with others' feelings.
+8,Agreeableness,AGR8,I take time out for others.
+8,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+8,Conscientiousness,CSN3,I pay attention to details.
+8,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+8,Conscientiousness,CSN9,I follow a schedule.
+8,Neuroticism,EST10,I often feel blue.
+8,Neuroticism,EST2,I am relaxed most of the time.
+8,Neuroticism,EST7,I change my mood a lot.
+8,Neuroticism,EST9,I have a low tolerance for irritation.
+8,Extraversion,EXT3,I feel comfortable around people.
+8,Extraversion,EXT5,I start conversations.
+8,Extraversion,EXT6,I have little to say.
+8,Extraversion,EXT8,I don't like to draw attention to myself.
+8,Openness,OPN1,I have a rich vocabulary.
+8,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+8,Openness,OPN7,I am quick to understand things.
+8,Openness,OPN9,I spend time reflecting on things.
+9,Agreeableness,AGR10,I make people feel at ease.
+9,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+9,Agreeableness,AGR4,I sympathize with others' feelings.
+9,Agreeableness,AGR8,I take time out for others.
+9,Conscientiousness,CSN1,I am always prepared.
+9,Conscientiousness,CSN3,I pay attention to details.
+9,Conscientiousness,CSN5,I get chores done right away.
+9,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+9,Neuroticism,EST1,I get stressed out easily.
+9,Neuroticism,EST10,I often feel blue.
+9,Neuroticism,EST7,I change my mood a lot.
+9,Neuroticism,EST9,I have a low tolerance for irritation.
+9,Extraversion,EXT1,I am the life of the party.
+9,Extraversion,EXT4,I keep in the background.
+9,Extraversion,EXT5,I start conversations.
+9,Extraversion,EXT8,I don't like to draw attention to myself.
+9,Openness,OPN10,I am full of ideas.
+9,Openness,OPN2,I have difficulty understanding abstract ideas.
+9,Openness,OPN7,I am quick to understand things.
+9,Openness,OPN9,I spend time reflecting on things.
+10,Agreeableness,AGR10,I make people feel at ease.
+10,Agreeableness,AGR2,I am interested in people.
+10,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+10,Agreeableness,AGR8,I take time out for others.
+10,Agreeableness,AGR9,I feel others' emotions.
+10,Conscientiousness,CSN1,I am always prepared.
+10,Conscientiousness,CSN10,I am exacting in my work.
+10,Conscientiousness,CSN3,I pay attention to details.
+10,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+10,Neuroticism,EST10,I often feel blue.
+10,Neuroticism,EST2,I am relaxed most of the time.
+10,Neuroticism,EST8,I have frequent mood swings.
+10,Neuroticism,EST9,I have a low tolerance for irritation.
+10,Extraversion,EXT2,I prefer to listen more than I speak.
+10,Extraversion,EXT4,I keep in the background.
+10,Extraversion,EXT5,I start conversations.
+10,Extraversion,EXT8,I don't like to draw attention to myself.
+10,Openness,OPN1,I have a rich vocabulary.
+10,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+10,Openness,OPN9,I spend time reflecting on things.
+11,Agreeableness,AGR1,I feel little concern for others.
+11,Agreeableness,AGR10,I make people feel at ease.
+11,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+11,Agreeableness,AGR6,I have a soft heart.
+11,Conscientiousness,CSN1,I am always prepared.
+11,Conscientiousness,CSN3,I pay attention to details.
+11,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+11,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+11,Neuroticism,EST10,I often feel blue.
+11,Neuroticism,EST2,I am relaxed most of the time.
+11,Neuroticism,EST5,I am easily disturbed.
+11,Neuroticism,EST7,I change my mood a lot.
+11,Extraversion,EXT3,I feel comfortable around people.
+11,Extraversion,EXT5,I start conversations.
+11,Extraversion,EXT7,I talk to a lot of different people at parties.
+11,Extraversion,EXT8,I don't like to draw attention to myself.
+11,Openness,OPN1,I have a rich vocabulary.
+11,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+11,Openness,OPN7,I am quick to understand things.
+11,Openness,OPN9,I spend time reflecting on things.
+12,Agreeableness,AGR10,I make people feel at ease.
+12,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+12,Agreeableness,AGR6,I have a soft heart.
+12,Agreeableness,AGR8,I take time out for others.
+12,Agreeableness,AGR9,I feel others' emotions.
+12,Conscientiousness,CSN1,I am always prepared.
+12,Conscientiousness,CSN3,I pay attention to details.
+12,Conscientiousness,CSN5,I get chores done right away.
+12,Conscientiousness,CSN7,I like order.
+12,Neuroticism,EST2,I am relaxed most of the time.
+12,Neuroticism,EST4,I seldom feel blue.
+12,Neuroticism,EST5,I am easily disturbed.
+12,Neuroticism,EST8,I have frequent mood swings.
+12,Extraversion,EXT10,I am quiet around strangers.
+12,Extraversion,EXT3,I feel comfortable around people.
+12,Extraversion,EXT5,I start conversations.
+12,Extraversion,EXT8,I don't like to draw attention to myself.
+12,Openness,OPN10,I am full of ideas.
+12,Openness,OPN4,I am not interested in abstract ideas.
+12,Openness,OPN9,I spend time reflecting on things.
+13,Agreeableness,AGR10,I make people feel at ease.
+13,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+13,Agreeableness,AGR4,I sympathize with others' feelings.
+13,Agreeableness,AGR8,I take time out for others.
+13,Conscientiousness,CSN1,I am always prepared.
+13,Conscientiousness,CSN3,I pay attention to details.
+13,Conscientiousness,CSN5,I get chores done right away.
+13,Conscientiousness,CSN7,I like order.
+13,Neuroticism,EST2,I am relaxed most of the time.
+13,Neuroticism,EST4,I seldom feel blue.
+13,Neuroticism,EST8,I have frequent mood swings.
+13,Neuroticism,EST9,I have a low tolerance for irritation.
+13,Extraversion,EXT4,I keep in the background.
+13,Extraversion,EXT6,I have little to say.
+13,Extraversion,EXT8,I don't like to draw attention to myself.
+13,Extraversion,EXT9,I don't mind being the center of attention.
+13,Openness,OPN3,I have a vivid imagination.
+13,Openness,OPN7,I am quick to understand things.
+13,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+13,Openness,OPN9,I spend time reflecting on things.
+14,Agreeableness,AGR10,I make people feel at ease.
+14,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+14,Agreeableness,AGR7,I am not really interested in others.
+14,Agreeableness,AGR8,I take time out for others.
+14,Agreeableness,AGR9,I feel others' emotions.
+14,Conscientiousness,CSN1,I am always prepared.
+14,Conscientiousness,CSN3,I pay attention to details.
+14,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+14,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+14,Neuroticism,EST3,I worry about things.
+14,Neuroticism,EST4,I seldom feel blue.
+14,Neuroticism,EST5,I am easily disturbed.
+14,Neuroticism,EST7,I change my mood a lot.
+14,Extraversion,EXT3,I feel comfortable around people.
+14,Extraversion,EXT7,I talk to a lot of different people at parties.
+14,Extraversion,EXT8,I don't like to draw attention to myself.
+14,Extraversion,EXT9,I don't mind being the center of attention.
+14,Openness,OPN4,I am not interested in abstract ideas.
+14,Openness,OPN5,I have excellent ideas.
+14,Openness,OPN9,I spend time reflecting on things.
+15,Agreeableness,AGR10,I make people feel at ease.
+15,Agreeableness,AGR2,I am interested in people.
+15,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+15,Agreeableness,AGR8,I take time out for others.
+15,Conscientiousness,CSN1,I am always prepared.
+15,Conscientiousness,CSN3,I pay attention to details.
+15,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+15,Conscientiousness,CSN7,I like order.
+15,Neuroticism,EST10,I often feel blue.
+15,Neuroticism,EST3,I worry about things.
+15,Neuroticism,EST5,I am easily disturbed.
+15,Neuroticism,EST8,I have frequent mood swings.
+15,Extraversion,EXT2,I prefer to listen more than I speak.
+15,Extraversion,EXT4,I keep in the background.
+15,Extraversion,EXT8,I don't like to draw attention to myself.
+15,Extraversion,EXT9,I don't mind being the center of attention.
+15,Openness,OPN2,I have difficulty understanding abstract ideas.
+15,Openness,OPN5,I have excellent ideas.
+15,Openness,OPN7,I am quick to understand things.
+15,Openness,OPN9,I spend time reflecting on things.
+16,Agreeableness,AGR10,I make people feel at ease.
+16,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+16,Agreeableness,AGR5,I am not interested in other people's problems.
+16,Agreeableness,AGR8,I take time out for others.
+16,Agreeableness,AGR9,I feel others' emotions.
+16,Conscientiousness,CSN1,I am always prepared.
+16,Conscientiousness,CSN3,I pay attention to details.
+16,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+16,Conscientiousness,CSN7,I like order.
+16,Neuroticism,EST1,I get stressed out easily.
+16,Neuroticism,EST10,I often feel blue.
+16,Neuroticism,EST8,I have frequent mood swings.
+16,Neuroticism,EST9,I have a low tolerance for irritation.
+16,Extraversion,EXT1,I am the life of the party.
+16,Extraversion,EXT3,I feel comfortable around people.
+16,Extraversion,EXT5,I start conversations.
+16,Extraversion,EXT8,I don't like to draw attention to myself.
+16,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+16,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+16,Openness,OPN9,I spend time reflecting on things.
+17,Agreeableness,AGR10,I make people feel at ease.
+17,Agreeableness,AGR2,I am interested in people.
+17,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+17,Agreeableness,AGR8,I take time out for others.
+17,Agreeableness,AGR9,I feel others' emotions.
+17,Conscientiousness,CSN3,I pay attention to details.
+17,Conscientiousness,CSN5,I get chores done right away.
+17,Conscientiousness,CSN7,I like order.
+17,Conscientiousness,CSN9,I follow a schedule.
+17,Neuroticism,EST10,I often feel blue.
+17,Neuroticism,EST5,I am easily disturbed.
+17,Neuroticism,EST6,I get upset easily.
+17,Neuroticism,EST7,I change my mood a lot.
+17,Extraversion,EXT3,I feel comfortable around people.
+17,Extraversion,EXT7,I talk to a lot of different people at parties.
+17,Extraversion,EXT8,I don't like to draw attention to myself.
+17,Extraversion,EXT9,I don't mind being the center of attention.
+17,Openness,OPN10,I am full of ideas.
+17,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+17,Openness,OPN9,I spend time reflecting on things.
+18,Agreeableness,AGR10,I make people feel at ease.
+18,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+18,Agreeableness,AGR6,I have a soft heart.
+18,Agreeableness,AGR8,I take time out for others.
+18,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+18,Conscientiousness,CSN3,I pay attention to details.
+18,Conscientiousness,CSN7,I like order.
+18,Conscientiousness,CSN9,I follow a schedule.
+18,Neuroticism,EST10,I often feel blue.
+18,Neuroticism,EST2,I am relaxed most of the time.
+18,Neuroticism,EST5,I am easily disturbed.
+18,Neuroticism,EST8,I have frequent mood swings.
+18,Extraversion,EXT2,I prefer to listen more than I speak.
+18,Extraversion,EXT4,I keep in the background.
+18,Extraversion,EXT5,I start conversations.
+18,Extraversion,EXT8,I don't like to draw attention to myself.
+18,Openness,OPN10,I am full of ideas.
+18,Openness,OPN2,I have difficulty understanding abstract ideas.
+18,Openness,OPN7,I am quick to understand things.
+18,Openness,OPN9,I spend time reflecting on things.
+19,Agreeableness,AGR1,I feel little concern for others.
+19,Agreeableness,AGR10,I make people feel at ease.
+19,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+19,Agreeableness,AGR4,I sympathize with others' feelings.
+19,Agreeableness,AGR9,I feel others' emotions.
+19,Conscientiousness,CSN1,I am always prepared.
+19,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+19,Conscientiousness,CSN3,I pay attention to details.
+19,Conscientiousness,CSN7,I like order.
+19,Neuroticism,EST4,I seldom feel blue.
+19,Neuroticism,EST6,I get upset easily.
+19,Neuroticism,EST7,I change my mood a lot.
+19,Neuroticism,EST9,I have a low tolerance for irritation.
+19,Extraversion,EXT2,I prefer to listen more than I speak.
+19,Extraversion,EXT3,I feel comfortable around people.
+19,Extraversion,EXT5,I start conversations.
+19,Extraversion,EXT8,I don't like to draw attention to myself.
+19,Openness,OPN5,I have excellent ideas.
+19,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+19,Openness,OPN9,I spend time reflecting on things.
+20,Agreeableness,AGR10,I make people feel at ease.
+20,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+20,Agreeableness,AGR7,I am not really interested in others.
+20,Agreeableness,AGR8,I take time out for others.
+20,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+20,Conscientiousness,CSN3,I pay attention to details.
+20,Conscientiousness,CSN7,I like order.
+20,Conscientiousness,CSN9,I follow a schedule.
+20,Neuroticism,EST10,I often feel blue.
+20,Neuroticism,EST6,I get upset easily.
+20,Neuroticism,EST7,I change my mood a lot.
+20,Neuroticism,EST9,I have a low tolerance for irritation.
+20,Extraversion,EXT3,I feel comfortable around people.
+20,Extraversion,EXT6,I have little to say.
+20,Extraversion,EXT8,I don't like to draw attention to myself.
+20,Extraversion,EXT9,I don't mind being the center of attention.
+20,Openness,OPN1,I have a rich vocabulary.
+20,Openness,OPN10,I am full of ideas.
+20,Openness,OPN7,I am quick to understand things.
+20,Openness,OPN9,I spend time reflecting on things.
+21,Agreeableness,AGR10,I make people feel at ease.
+21,Agreeableness,AGR2,I am interested in people.
+21,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+21,Agreeableness,AGR8,I take time out for others.
+21,Agreeableness,AGR9,I feel others' emotions.
+21,Conscientiousness,CSN10,I am exacting in my work.
+21,Conscientiousness,CSN3,I pay attention to details.
+21,Conscientiousness,CSN5,I get chores done right away.
+21,Conscientiousness,CSN9,I follow a schedule.
+21,Neuroticism,EST10,I often feel blue.
+21,Neuroticism,EST3,I worry about things.
+21,Neuroticism,EST7,I change my mood a lot.
+21,Neuroticism,EST9,I have a low tolerance for irritation.
+21,Extraversion,EXT4,I keep in the background.
+21,Extraversion,EXT6,I have little to say.
+21,Extraversion,EXT8,I don't like to draw attention to myself.
+21,Extraversion,EXT9,I don't mind being the center of attention.
+21,Openness,OPN10,I am full of ideas.
+21,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+21,Openness,OPN9,I spend time reflecting on things.
+22,Agreeableness,AGR10,I make people feel at ease.
+22,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+22,Agreeableness,AGR4,I sympathize with others' feelings.
+22,Agreeableness,AGR8,I take time out for others.
+22,Conscientiousness,CSN1,I am always prepared.
+22,Conscientiousness,CSN3,I pay attention to details.
+22,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+22,Conscientiousness,CSN7,I like order.
+22,Neuroticism,EST4,I seldom feel blue.
+22,Neuroticism,EST5,I am easily disturbed.
+22,Neuroticism,EST6,I get upset easily.
+22,Neuroticism,EST7,I change my mood a lot.
+22,Extraversion,EXT4,I keep in the background.
+22,Extraversion,EXT7,I talk to a lot of different people at parties.
+22,Extraversion,EXT8,I don't like to draw attention to myself.
+22,Extraversion,EXT9,I don't mind being the center of attention.
+22,Openness,OPN3,I have a vivid imagination.
+22,Openness,OPN7,I am quick to understand things.
+22,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+22,Openness,OPN9,I spend time reflecting on things.
+23,Agreeableness,AGR10,I make people feel at ease.
+23,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+23,Agreeableness,AGR5,I am not interested in other people's problems.
+23,Agreeableness,AGR8,I take time out for others.
+23,Agreeableness,AGR9,I feel others' emotions.
+23,Conscientiousness,CSN1,I am always prepared.
+23,Conscientiousness,CSN10,I am exacting in my work.
+23,Conscientiousness,CSN3,I pay attention to details.
+23,Conscientiousness,CSN5,I get chores done right away.
+23,Neuroticism,EST1,I get stressed out easily.
+23,Neuroticism,EST10,I often feel blue.
+23,Neuroticism,EST5,I am easily disturbed.
+23,Neuroticism,EST8,I have frequent mood swings.
+23,Extraversion,EXT4,I keep in the background.
+23,Extraversion,EXT7,I talk to a lot of different people at parties.
+23,Extraversion,EXT8,I don't like to draw attention to myself.
+23,Extraversion,EXT9,I don't mind being the center of attention.
+23,Openness,OPN2,I have difficulty understanding abstract ideas.
+23,Openness,OPN3,I have a vivid imagination.
+23,Openness,OPN9,I spend time reflecting on things.
+24,Agreeableness,AGR1,I feel little concern for others.
+24,Agreeableness,AGR10,I make people feel at ease.
+24,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+24,Agreeableness,AGR5,I am not interested in other people's problems.
+24,Conscientiousness,CSN1,I am always prepared.
+24,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+24,Conscientiousness,CSN3,I pay attention to details.
+24,Conscientiousness,CSN7,I like order.
+24,Neuroticism,EST3,I worry about things.
+24,Neuroticism,EST4,I seldom feel blue.
+24,Neuroticism,EST5,I am easily disturbed.
+24,Neuroticism,EST7,I change my mood a lot.
+24,Extraversion,EXT3,I feel comfortable around people.
+24,Extraversion,EXT7,I talk to a lot of different people at parties.
+24,Extraversion,EXT8,I don't like to draw attention to myself.
+24,Extraversion,EXT9,I don't mind being the center of attention.
+24,Openness,OPN10,I am full of ideas.
+24,Openness,OPN4,I am not interested in abstract ideas.
+24,Openness,OPN7,I am quick to understand things.
+24,Openness,OPN9,I spend time reflecting on things.
+25,Agreeableness,AGR1,I feel little concern for others.
+25,Agreeableness,AGR10,I make people feel at ease.
+25,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+25,Agreeableness,AGR6,I have a soft heart.
+25,Conscientiousness,CSN3,I pay attention to details.
+25,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+25,Conscientiousness,CSN7,I like order.
+25,Conscientiousness,CSN9,I follow a schedule.
+25,Neuroticism,EST10,I often feel blue.
+25,Neuroticism,EST2,I am relaxed most of the time.
+25,Neuroticism,EST7,I change my mood a lot.
+25,Neuroticism,EST9,I have a low tolerance for irritation.
+25,Extraversion,EXT2,I prefer to listen more than I speak.
+25,Extraversion,EXT4,I keep in the background.
+25,Extraversion,EXT8,I don't like to draw attention to myself.
+25,Extraversion,EXT9,I don't mind being the center of attention.
+25,Openness,OPN5,I have excellent ideas.
+25,Openness,OPN7,I am quick to understand things.
+25,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+25,Openness,OPN9,I spend time reflecting on things.
+26,Agreeableness,AGR10,I make people feel at ease.
+26,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+26,Agreeableness,AGR4,I sympathize with others' feelings.
+26,Agreeableness,AGR8,I take time out for others.
+26,Conscientiousness,CSN1,I am always prepared.
+26,Conscientiousness,CSN10,I am exacting in my work.
+26,Conscientiousness,CSN3,I pay attention to details.
+26,Conscientiousness,CSN5,I get chores done right away.
+26,Neuroticism,EST4,I seldom feel blue.
+26,Neuroticism,EST5,I am easily disturbed.
+26,Neuroticism,EST6,I get upset easily.
+26,Neuroticism,EST8,I have frequent mood swings.
+26,Extraversion,EXT1,I am the life of the party.
+26,Extraversion,EXT4,I keep in the background.
+26,Extraversion,EXT5,I start conversations.
+26,Extraversion,EXT8,I don't like to draw attention to myself.
+26,Openness,OPN3,I have a vivid imagination.
+26,Openness,OPN4,I am not interested in abstract ideas.
+26,Openness,OPN7,I am quick to understand things.
+26,Openness,OPN9,I spend time reflecting on things.
+27,Agreeableness,AGR10,I make people feel at ease.
+27,Agreeableness,AGR2,I am interested in people.
+27,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+27,Agreeableness,AGR8,I take time out for others.
+27,Agreeableness,AGR9,I feel others' emotions.
+27,Conscientiousness,CSN1,I am always prepared.
+27,Conscientiousness,CSN10,I am exacting in my work.
+27,Conscientiousness,CSN3,I pay attention to details.
+27,Conscientiousness,CSN5,I get chores done right away.
+27,Neuroticism,EST10,I often feel blue.
+27,Neuroticism,EST2,I am relaxed most of the time.
+27,Neuroticism,EST8,I have frequent mood swings.
+27,Neuroticism,EST9,I have a low tolerance for irritation.
+27,Extraversion,EXT2,I prefer to listen more than I speak.
+27,Extraversion,EXT4,I keep in the background.
+27,Extraversion,EXT5,I start conversations.
+27,Extraversion,EXT8,I don't like to draw attention to myself.
+27,Openness,OPN1,I have a rich vocabulary.
+27,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+27,Openness,OPN9,I spend time reflecting on things.
+28,Agreeableness,AGR10,I make people feel at ease.
+28,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+28,Agreeableness,AGR6,I have a soft heart.
+28,Agreeableness,AGR8,I take time out for others.
+28,Conscientiousness,CSN10,I am exacting in my work.
+28,Conscientiousness,CSN3,I pay attention to details.
+28,Conscientiousness,CSN5,I get chores done right away.
+28,Conscientiousness,CSN9,I follow a schedule.
+28,Neuroticism,EST1,I get stressed out easily.
+28,Neuroticism,EST10,I often feel blue.
+28,Neuroticism,EST8,I have frequent mood swings.
+28,Neuroticism,EST9,I have a low tolerance for irritation.
+28,Extraversion,EXT2,I prefer to listen more than I speak.
+28,Extraversion,EXT4,I keep in the background.
+28,Extraversion,EXT8,I don't like to draw attention to myself.
+28,Extraversion,EXT9,I don't mind being the center of attention.
+28,Openness,OPN1,I have a rich vocabulary.
+28,Openness,OPN10,I am full of ideas.
+28,Openness,OPN7,I am quick to understand things.
+28,Openness,OPN9,I spend time reflecting on things.
+29,Agreeableness,AGR1,I feel little concern for others.
+29,Agreeableness,AGR10,I make people feel at ease.
+29,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+29,Agreeableness,AGR4,I sympathize with others' feelings.
+29,Agreeableness,AGR9,I feel others' emotions.
+29,Conscientiousness,CSN3,I pay attention to details.
+29,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+29,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+29,Conscientiousness,CSN9,I follow a schedule.
+29,Neuroticism,EST4,I seldom feel blue.
+29,Neuroticism,EST6,I get upset easily.
+29,Neuroticism,EST7,I change my mood a lot.
+29,Neuroticism,EST9,I have a low tolerance for irritation.
+29,Extraversion,EXT3,I feel comfortable around people.
+29,Extraversion,EXT5,I start conversations.
+29,Extraversion,EXT6,I have little to say.
+29,Extraversion,EXT8,I don't like to draw attention to myself.
+29,Openness,OPN1,I have a rich vocabulary.
+29,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+29,Openness,OPN9,I spend time reflecting on things.
+30,Agreeableness,AGR1,I feel little concern for others.
+30,Agreeableness,AGR10,I make people feel at ease.
+30,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+30,Agreeableness,AGR4,I sympathize with others' feelings.
+30,Agreeableness,AGR9,I feel others' emotions.
+30,Conscientiousness,CSN1,I am always prepared.
+30,Conscientiousness,CSN10,I am exacting in my work.
+30,Conscientiousness,CSN3,I pay attention to details.
+30,Conscientiousness,CSN5,I get chores done right away.
+30,Neuroticism,EST10,I often feel blue.
+30,Neuroticism,EST3,I worry about things.
+30,Neuroticism,EST7,I change my mood a lot.
+30,Neuroticism,EST9,I have a low tolerance for irritation.
+30,Extraversion,EXT1,I am the life of the party.
+30,Extraversion,EXT3,I feel comfortable around people.
+30,Extraversion,EXT8,I don't like to draw attention to myself.
+30,Extraversion,EXT9,I don't mind being the center of attention.
+30,Openness,OPN1,I have a rich vocabulary.
+30,Openness,OPN5,I have excellent ideas.
+30,Openness,OPN9,I spend time reflecting on things.
+31,Agreeableness,AGR10,I make people feel at ease.
+31,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+31,Agreeableness,AGR7,I am not really interested in others.
+31,Agreeableness,AGR8,I take time out for others.
+31,Agreeableness,AGR9,I feel others' emotions.
+31,Conscientiousness,CSN1,I am always prepared.
+31,Conscientiousness,CSN3,I pay attention to details.
+31,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+31,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+31,Neuroticism,EST3,I worry about things.
+31,Neuroticism,EST4,I seldom feel blue.
+31,Neuroticism,EST8,I have frequent mood swings.
+31,Neuroticism,EST9,I have a low tolerance for irritation.
+31,Extraversion,EXT4,I keep in the background.
+31,Extraversion,EXT6,I have little to say.
+31,Extraversion,EXT8,I don't like to draw attention to myself.
+31,Extraversion,EXT9,I don't mind being the center of attention.
+31,Openness,OPN3,I have a vivid imagination.
+31,Openness,OPN4,I am not interested in abstract ideas.
+31,Openness,OPN9,I spend time reflecting on things.
+32,Agreeableness,AGR10,I make people feel at ease.
+32,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+32,Agreeableness,AGR6,I have a soft heart.
+32,Agreeableness,AGR8,I take time out for others.
+32,Conscientiousness,CSN3,I pay attention to details.
+32,Conscientiousness,CSN5,I get chores done right away.
+32,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+32,Conscientiousness,CSN9,I follow a schedule.
+32,Neuroticism,EST1,I get stressed out easily.
+32,Neuroticism,EST10,I often feel blue.
+32,Neuroticism,EST5,I am easily disturbed.
+32,Neuroticism,EST7,I change my mood a lot.
+32,Extraversion,EXT4,I keep in the background.
+32,Extraversion,EXT7,I talk to a lot of different people at parties.
+32,Extraversion,EXT8,I don't like to draw attention to myself.
+32,Extraversion,EXT9,I don't mind being the center of attention.
+32,Openness,OPN4,I am not interested in abstract ideas.
+32,Openness,OPN5,I have excellent ideas.
+32,Openness,OPN7,I am quick to understand things.
+32,Openness,OPN9,I spend time reflecting on things.
+33,Agreeableness,AGR1,I feel little concern for others.
+33,Agreeableness,AGR10,I make people feel at ease.
+33,Agreeableness,AGR2,I am interested in people.
+33,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+33,Agreeableness,AGR9,I feel others' emotions.
+33,Conscientiousness,CSN1,I am always prepared.
+33,Conscientiousness,CSN3,I pay attention to details.
+33,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+33,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+33,Neuroticism,EST3,I worry about things.
+33,Neuroticism,EST4,I seldom feel blue.
+33,Neuroticism,EST5,I am easily disturbed.
+33,Neuroticism,EST8,I have frequent mood swings.
+33,Extraversion,EXT2,I prefer to listen more than I speak.
+33,Extraversion,EXT3,I feel comfortable around people.
+33,Extraversion,EXT5,I start conversations.
+33,Extraversion,EXT8,I don't like to draw attention to myself.
+33,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+33,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+33,Openness,OPN9,I spend time reflecting on things.
+34,Agreeableness,AGR10,I make people feel at ease.
+34,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+34,Agreeableness,AGR4,I sympathize with others' feelings.
+34,Agreeableness,AGR8,I take time out for others.
+34,Agreeableness,AGR9,I feel others' emotions.
+34,Conscientiousness,CSN1,I am always prepared.
+34,Conscientiousness,CSN10,I am exacting in my work.
+34,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+34,Conscientiousness,CSN3,I pay attention to details.
+34,Neuroticism,EST3,I worry about things.
+34,Neuroticism,EST4,I seldom feel blue.
+34,Neuroticism,EST7,I change my mood a lot.
+34,Neuroticism,EST9,I have a low tolerance for irritation.
+34,Extraversion,EXT1,I am the life of the party.
+34,Extraversion,EXT4,I keep in the background.
+34,Extraversion,EXT8,I don't like to draw attention to myself.
+34,Extraversion,EXT9,I don't mind being the center of attention.
+34,Openness,OPN4,I am not interested in abstract ideas.
+34,Openness,OPN5,I have excellent ideas.
+34,Openness,OPN9,I spend time reflecting on things.
+35,Agreeableness,AGR10,I make people feel at ease.
+35,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+35,Agreeableness,AGR4,I sympathize with others' feelings.
+35,Agreeableness,AGR8,I take time out for others.
+35,Agreeableness,AGR9,I feel others' emotions.
+35,Conscientiousness,CSN10,I am exacting in my work.
+35,Conscientiousness,CSN3,I pay attention to details.
+35,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+35,Conscientiousness,CSN9,I follow a schedule.
+35,Neuroticism,EST1,I get stressed out easily.
+35,Neuroticism,EST10,I often feel blue.
+35,Neuroticism,EST7,I change my mood a lot.
+35,Neuroticism,EST9,I have a low tolerance for irritation.
+35,Extraversion,EXT4,I keep in the background.
+35,Extraversion,EXT6,I have little to say.
+35,Extraversion,EXT8,I don't like to draw attention to myself.
+35,Extraversion,EXT9,I don't mind being the center of attention.
+35,Openness,OPN2,I have difficulty understanding abstract ideas.
+35,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+35,Openness,OPN9,I spend time reflecting on things.
+36,Agreeableness,AGR1,I feel little concern for others.
+36,Agreeableness,AGR10,I make people feel at ease.
+36,Agreeableness,AGR2,I am interested in people.
+36,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+36,Agreeableness,AGR9,I feel others' emotions.
+36,Conscientiousness,CSN3,I pay attention to details.
+36,Conscientiousness,CSN5,I get chores done right away.
+36,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+36,Conscientiousness,CSN9,I follow a schedule.
+36,Neuroticism,EST4,I seldom feel blue.
+36,Neuroticism,EST6,I get upset easily.
+36,Neuroticism,EST8,I have frequent mood swings.
+36,Neuroticism,EST9,I have a low tolerance for irritation.
+36,Extraversion,EXT4,I keep in the background.
+36,Extraversion,EXT7,I talk to a lot of different people at parties.
+36,Extraversion,EXT8,I don't like to draw attention to myself.
+36,Extraversion,EXT9,I don't mind being the center of attention.
+36,Openness,OPN2,I have difficulty understanding abstract ideas.
+36,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+36,Openness,OPN9,I spend time reflecting on things.
+37,Agreeableness,AGR10,I make people feel at ease.
+37,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+37,Agreeableness,AGR7,I am not really interested in others.
+37,Agreeableness,AGR8,I take time out for others.
+37,Agreeableness,AGR9,I feel others' emotions.
+37,Conscientiousness,CSN3,I pay attention to details.
+37,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+37,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+37,Conscientiousness,CSN9,I follow a schedule.
+37,Neuroticism,EST1,I get stressed out easily.
+37,Neuroticism,EST10,I often feel blue.
+37,Neuroticism,EST8,I have frequent mood swings.
+37,Neuroticism,EST9,I have a low tolerance for irritation.
+37,Extraversion,EXT3,I feel comfortable around people.
+37,Extraversion,EXT5,I start conversations.
+37,Extraversion,EXT7,I talk to a lot of different people at parties.
+37,Extraversion,EXT8,I don't like to draw attention to myself.
+37,Openness,OPN3,I have a vivid imagination.
+37,Openness,OPN4,I am not interested in abstract ideas.
+37,Openness,OPN9,I spend time reflecting on things.
+38,Agreeableness,AGR10,I make people feel at ease.
+38,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+38,Agreeableness,AGR4,I sympathize with others' feelings.
+38,Agreeableness,AGR8,I take time out for others.
+38,Agreeableness,AGR9,I feel others' emotions.
+38,Conscientiousness,CSN3,I pay attention to details.
+38,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+38,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+38,Conscientiousness,CSN9,I follow a schedule.
+38,Neuroticism,EST2,I am relaxed most of the time.
+38,Neuroticism,EST4,I seldom feel blue.
+38,Neuroticism,EST8,I have frequent mood swings.
+38,Neuroticism,EST9,I have a low tolerance for irritation.
+38,Extraversion,EXT10,I am quiet around strangers.
+38,Extraversion,EXT3,I feel comfortable around people.
+38,Extraversion,EXT5,I start conversations.
+38,Extraversion,EXT8,I don't like to draw attention to myself.
+38,Openness,OPN1,I have a rich vocabulary.
+38,Openness,OPN5,I have excellent ideas.
+38,Openness,OPN9,I spend time reflecting on things.
+39,Agreeableness,AGR1,I feel little concern for others.
+39,Agreeableness,AGR10,I make people feel at ease.
+39,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+39,Agreeableness,AGR5,I am not interested in other people's problems.
+39,Agreeableness,AGR9,I feel others' emotions.
+39,Conscientiousness,CSN1,I am always prepared.
+39,Conscientiousness,CSN3,I pay attention to details.
+39,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+39,Conscientiousness,CSN7,I like order.
+39,Neuroticism,EST1,I get stressed out easily.
+39,Neuroticism,EST4,I seldom feel blue.
+39,Neuroticism,EST8,I have frequent mood swings.
+39,Neuroticism,EST9,I have a low tolerance for irritation.
+39,Extraversion,EXT1,I am the life of the party.
+39,Extraversion,EXT4,I keep in the background.
+39,Extraversion,EXT5,I start conversations.
+39,Extraversion,EXT8,I don't like to draw attention to myself.
+39,Openness,OPN1,I have a rich vocabulary.
+39,Openness,OPN10,I am full of ideas.
+39,Openness,OPN9,I spend time reflecting on things.
+40,Agreeableness,AGR10,I make people feel at ease.
+40,Agreeableness,AGR2,I am interested in people.
+40,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+40,Agreeableness,AGR8,I take time out for others.
+40,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+40,Conscientiousness,CSN3,I pay attention to details.
+40,Conscientiousness,CSN7,I like order.
+40,Conscientiousness,CSN9,I follow a schedule.
+40,Neuroticism,EST1,I get stressed out easily.
+40,Neuroticism,EST4,I seldom feel blue.
+40,Neuroticism,EST5,I am easily disturbed.
+40,Neuroticism,EST8,I have frequent mood swings.
+40,Extraversion,EXT2,I prefer to listen more than I speak.
+40,Extraversion,EXT3,I feel comfortable around people.
+40,Extraversion,EXT5,I start conversations.
+40,Extraversion,EXT8,I don't like to draw attention to myself.
+40,Openness,OPN2,I have difficulty understanding abstract ideas.
+40,Openness,OPN3,I have a vivid imagination.
+40,Openness,OPN7,I am quick to understand things.
+40,Openness,OPN9,I spend time reflecting on things.
+41,Agreeableness,AGR10,I make people feel at ease.
+41,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+41,Agreeableness,AGR7,I am not really interested in others.
+41,Agreeableness,AGR8,I take time out for others.
+41,Conscientiousness,CSN1,I am always prepared.
+41,Conscientiousness,CSN10,I am exacting in my work.
+41,Conscientiousness,CSN3,I pay attention to details.
+41,Conscientiousness,CSN5,I get chores done right away.
+41,Neuroticism,EST10,I often feel blue.
+41,Neuroticism,EST3,I worry about things.
+41,Neuroticism,EST5,I am easily disturbed.
+41,Neuroticism,EST7,I change my mood a lot.
+41,Extraversion,EXT3,I feel comfortable around people.
+41,Extraversion,EXT5,I start conversations.
+41,Extraversion,EXT6,I have little to say.
+41,Extraversion,EXT8,I don't like to draw attention to myself.
+41,Openness,OPN4,I am not interested in abstract ideas.
+41,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+41,Openness,OPN7,I am quick to understand things.
+41,Openness,OPN9,I spend time reflecting on things.
+42,Agreeableness,AGR10,I make people feel at ease.
+42,Agreeableness,AGR2,I am interested in people.
+42,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+42,Agreeableness,AGR8,I take time out for others.
+42,Conscientiousness,CSN3,I pay attention to details.
+42,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+42,Conscientiousness,CSN7,I like order.
+42,Conscientiousness,CSN9,I follow a schedule.
+42,Neuroticism,EST10,I often feel blue.
+42,Neuroticism,EST2,I am relaxed most of the time.
+42,Neuroticism,EST7,I change my mood a lot.
+42,Neuroticism,EST9,I have a low tolerance for irritation.
+42,Extraversion,EXT3,I feel comfortable around people.
+42,Extraversion,EXT6,I have little to say.
+42,Extraversion,EXT8,I don't like to draw attention to myself.
+42,Extraversion,EXT9,I don't mind being the center of attention.
+42,Openness,OPN1,I have a rich vocabulary.
+42,Openness,OPN5,I have excellent ideas.
+42,Openness,OPN7,I am quick to understand things.
+42,Openness,OPN9,I spend time reflecting on things.
+43,Agreeableness,AGR10,I make people feel at ease.
+43,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+43,Agreeableness,AGR5,I am not interested in other people's problems.
+43,Agreeableness,AGR8,I take time out for others.
+43,Conscientiousness,CSN1,I am always prepared.
+43,Conscientiousness,CSN3,I pay attention to details.
+43,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+43,Conscientiousness,CSN7,I like order.
+43,Neuroticism,EST2,I am relaxed most of the time.
+43,Neuroticism,EST4,I seldom feel blue.
+43,Neuroticism,EST5,I am easily disturbed.
+43,Neuroticism,EST8,I have frequent mood swings.
+43,Extraversion,EXT4,I keep in the background.
+43,Extraversion,EXT5,I start conversations.
+43,Extraversion,EXT6,I have little to say.
+43,Extraversion,EXT8,I don't like to draw attention to myself.
+43,Openness,OPN4,I am not interested in abstract ideas.
+43,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+43,Openness,OPN7,I am quick to understand things.
+43,Openness,OPN9,I spend time reflecting on things.
+44,Agreeableness,AGR1,I feel little concern for others.
+44,Agreeableness,AGR10,I make people feel at ease.
+44,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+44,Agreeableness,AGR4,I sympathize with others' feelings.
+44,Agreeableness,AGR9,I feel others' emotions.
+44,Conscientiousness,CSN1,I am always prepared.
+44,Conscientiousness,CSN3,I pay attention to details.
+44,Conscientiousness,CSN5,I get chores done right away.
+44,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+44,Neuroticism,EST10,I often feel blue.
+44,Neuroticism,EST2,I am relaxed most of the time.
+44,Neuroticism,EST7,I change my mood a lot.
+44,Neuroticism,EST9,I have a low tolerance for irritation.
+44,Extraversion,EXT2,I prefer to listen more than I speak.
+44,Extraversion,EXT4,I keep in the background.
+44,Extraversion,EXT8,I don't like to draw attention to myself.
+44,Extraversion,EXT9,I don't mind being the center of attention.
+44,Openness,OPN1,I have a rich vocabulary.
+44,Openness,OPN10,I am full of ideas.
+44,Openness,OPN9,I spend time reflecting on things.
+45,Agreeableness,AGR10,I make people feel at ease.
+45,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+45,Agreeableness,AGR4,I sympathize with others' feelings.
+45,Agreeableness,AGR8,I take time out for others.
+45,Agreeableness,AGR9,I feel others' emotions.
+45,Conscientiousness,CSN1,I am always prepared.
+45,Conscientiousness,CSN3,I pay attention to details.
+45,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+45,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+45,Neuroticism,EST4,I seldom feel blue.
+45,Neuroticism,EST6,I get upset easily.
+45,Neuroticism,EST7,I change my mood a lot.
+45,Neuroticism,EST9,I have a low tolerance for irritation.
+45,Extraversion,EXT10,I am quiet around strangers.
+45,Extraversion,EXT3,I feel comfortable around people.
+45,Extraversion,EXT8,I don't like to draw attention to myself.
+45,Extraversion,EXT9,I don't mind being the center of attention.
+45,Openness,OPN1,I have a rich vocabulary.
+45,Openness,OPN3,I have a vivid imagination.
+45,Openness,OPN9,I spend time reflecting on things.
+46,Agreeableness,AGR10,I make people feel at ease.
+46,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+46,Agreeableness,AGR4,I sympathize with others' feelings.
+46,Agreeableness,AGR8,I take time out for others.
+46,Conscientiousness,CSN1,I am always prepared.
+46,Conscientiousness,CSN3,I pay attention to details.
+46,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+46,Conscientiousness,CSN7,I like order.
+46,Neuroticism,EST1,I get stressed out easily.
+46,Neuroticism,EST10,I often feel blue.
+46,Neuroticism,EST5,I am easily disturbed.
+46,Neuroticism,EST8,I have frequent mood swings.
+46,Extraversion,EXT1,I am the life of the party.
+46,Extraversion,EXT3,I feel comfortable around people.
+46,Extraversion,EXT8,I don't like to draw attention to myself.
+46,Extraversion,EXT9,I don't mind being the center of attention.
+46,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+46,Openness,OPN7,I am quick to understand things.
+46,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+46,Openness,OPN9,I spend time reflecting on things.
+47,Agreeableness,AGR1,I feel little concern for others.
+47,Agreeableness,AGR10,I make people feel at ease.
+47,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+47,Agreeableness,AGR6,I have a soft heart.
+47,Conscientiousness,CSN1,I am always prepared.
+47,Conscientiousness,CSN10,I am exacting in my work.
+47,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+47,Conscientiousness,CSN3,I pay attention to details.
+47,Neuroticism,EST4,I seldom feel blue.
+47,Neuroticism,EST5,I am easily disturbed.
+47,Neuroticism,EST6,I get upset easily.
+47,Neuroticism,EST8,I have frequent mood swings.
+47,Extraversion,EXT2,I prefer to listen more than I speak.
+47,Extraversion,EXT3,I feel comfortable around people.
+47,Extraversion,EXT5,I start conversations.
+47,Extraversion,EXT8,I don't like to draw attention to myself.
+47,Openness,OPN1,I have a rich vocabulary.
+47,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+47,Openness,OPN7,I am quick to understand things.
+47,Openness,OPN9,I spend time reflecting on things.
+48,Agreeableness,AGR10,I make people feel at ease.
+48,Agreeableness,AGR2,I am interested in people.
+48,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+48,Agreeableness,AGR8,I take time out for others.
+48,Agreeableness,AGR9,I feel others' emotions.
+48,Conscientiousness,CSN1,I am always prepared.
+48,Conscientiousness,CSN3,I pay attention to details.
+48,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+48,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+48,Neuroticism,EST1,I get stressed out easily.
+48,Neuroticism,EST4,I seldom feel blue.
+48,Neuroticism,EST8,I have frequent mood swings.
+48,Neuroticism,EST9,I have a low tolerance for irritation.
+48,Extraversion,EXT10,I am quiet around strangers.
+48,Extraversion,EXT4,I keep in the background.
+48,Extraversion,EXT8,I don't like to draw attention to myself.
+48,Extraversion,EXT9,I don't mind being the center of attention.
+48,Openness,OPN4,I am not interested in abstract ideas.
+48,Openness,OPN5,I have excellent ideas.
+48,Openness,OPN9,I spend time reflecting on things.
+49,Agreeableness,AGR1,I feel little concern for others.
+49,Agreeableness,AGR10,I make people feel at ease.
+49,Agreeableness,AGR2,I am interested in people.
+49,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+49,Agreeableness,AGR9,I feel others' emotions.
+49,Conscientiousness,CSN1,I am always prepared.
+49,Conscientiousness,CSN10,I am exacting in my work.
+49,Conscientiousness,CSN3,I pay attention to details.
+49,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+49,Neuroticism,EST10,I often feel blue.
+49,Neuroticism,EST2,I am relaxed most of the time.
+49,Neuroticism,EST5,I am easily disturbed.
+49,Neuroticism,EST8,I have frequent mood swings.
+49,Extraversion,EXT10,I am quiet around strangers.
+49,Extraversion,EXT3,I feel comfortable around people.
+49,Extraversion,EXT5,I start conversations.
+49,Extraversion,EXT8,I don't like to draw attention to myself.
+49,Openness,OPN3,I have a vivid imagination.
+49,Openness,OPN4,I am not interested in abstract ideas.
+49,Openness,OPN9,I spend time reflecting on things.
+50,Agreeableness,AGR1,I feel little concern for others.
+50,Agreeableness,AGR10,I make people feel at ease.
+50,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+50,Agreeableness,AGR4,I sympathize with others' feelings.
+50,Conscientiousness,CSN1,I am always prepared.
+50,Conscientiousness,CSN10,I am exacting in my work.
+50,Conscientiousness,CSN3,I pay attention to details.
+50,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+50,Neuroticism,EST1,I get stressed out easily.
+50,Neuroticism,EST10,I often feel blue.
+50,Neuroticism,EST5,I am easily disturbed.
+50,Neuroticism,EST7,I change my mood a lot.
+50,Extraversion,EXT4,I keep in the background.
+50,Extraversion,EXT6,I have little to say.
+50,Extraversion,EXT8,I don't like to draw attention to myself.
+50,Extraversion,EXT9,I don't mind being the center of attention.
+50,Openness,OPN1,I have a rich vocabulary.
+50,Openness,OPN10,I am full of ideas.
+50,Openness,OPN7,I am quick to understand things.
+50,Openness,OPN9,I spend time reflecting on things.
+51,Agreeableness,AGR10,I make people feel at ease.
+51,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+51,Agreeableness,AGR4,I sympathize with others' feelings.
+51,Agreeableness,AGR8,I take time out for others.
+51,Agreeableness,AGR9,I feel others' emotions.
+51,Conscientiousness,CSN1,I am always prepared.
+51,Conscientiousness,CSN10,I am exacting in my work.
+51,Conscientiousness,CSN3,I pay attention to details.
+51,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+51,Neuroticism,EST1,I get stressed out easily.
+51,Neuroticism,EST4,I seldom feel blue.
+51,Neuroticism,EST8,I have frequent mood swings.
+51,Neuroticism,EST9,I have a low tolerance for irritation.
+51,Extraversion,EXT2,I prefer to listen more than I speak.
+51,Extraversion,EXT4,I keep in the background.
+51,Extraversion,EXT8,I don't like to draw attention to myself.
+51,Extraversion,EXT9,I don't mind being the center of attention.
+51,Openness,OPN1,I have a rich vocabulary.
+51,Openness,OPN5,I have excellent ideas.
+51,Openness,OPN9,I spend time reflecting on things.
+52,Agreeableness,AGR10,I make people feel at ease.
+52,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+52,Agreeableness,AGR5,I am not interested in other people's problems.
+52,Agreeableness,AGR8,I take time out for others.
+52,Agreeableness,AGR9,I feel others' emotions.
+52,Conscientiousness,CSN3,I pay attention to details.
+52,Conscientiousness,CSN5,I get chores done right away.
+52,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+52,Conscientiousness,CSN9,I follow a schedule.
+52,Neuroticism,EST10,I often feel blue.
+52,Neuroticism,EST3,I worry about things.
+52,Neuroticism,EST7,I change my mood a lot.
+52,Neuroticism,EST9,I have a low tolerance for irritation.
+52,Extraversion,EXT10,I am quiet around strangers.
+52,Extraversion,EXT4,I keep in the background.
+52,Extraversion,EXT5,I start conversations.
+52,Extraversion,EXT8,I don't like to draw attention to myself.
+52,Openness,OPN3,I have a vivid imagination.
+52,Openness,OPN4,I am not interested in abstract ideas.
+52,Openness,OPN9,I spend time reflecting on things.
+53,Agreeableness,AGR10,I make people feel at ease.
+53,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+53,Agreeableness,AGR4,I sympathize with others' feelings.
+53,Agreeableness,AGR8,I take time out for others.
+53,Agreeableness,AGR9,I feel others' emotions.
+53,Conscientiousness,CSN1,I am always prepared.
+53,Conscientiousness,CSN3,I pay attention to details.
+53,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+53,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+53,Neuroticism,EST4,I seldom feel blue.
+53,Neuroticism,EST6,I get upset easily.
+53,Neuroticism,EST8,I have frequent mood swings.
+53,Neuroticism,EST9,I have a low tolerance for irritation.
+53,Extraversion,EXT1,I am the life of the party.
+53,Extraversion,EXT3,I feel comfortable around people.
+53,Extraversion,EXT8,I don't like to draw attention to myself.
+53,Extraversion,EXT9,I don't mind being the center of attention.
+53,Openness,OPN1,I have a rich vocabulary.
+53,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+53,Openness,OPN9,I spend time reflecting on things.
+54,Agreeableness,AGR1,I feel little concern for others.
+54,Agreeableness,AGR10,I make people feel at ease.
+54,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+54,Agreeableness,AGR6,I have a soft heart.
+54,Conscientiousness,CSN1,I am always prepared.
+54,Conscientiousness,CSN3,I pay attention to details.
+54,Conscientiousness,CSN5,I get chores done right away.
+54,Conscientiousness,CSN7,I like order.
+54,Neuroticism,EST2,I am relaxed most of the time.
+54,Neuroticism,EST4,I seldom feel blue.
+54,Neuroticism,EST5,I am easily disturbed.
+54,Neuroticism,EST7,I change my mood a lot.
+54,Extraversion,EXT3,I feel comfortable around people.
+54,Extraversion,EXT7,I talk to a lot of different people at parties.
+54,Extraversion,EXT8,I don't like to draw attention to myself.
+54,Extraversion,EXT9,I don't mind being the center of attention.
+54,Openness,OPN10,I am full of ideas.
+54,Openness,OPN4,I am not interested in abstract ideas.
+54,Openness,OPN7,I am quick to understand things.
+54,Openness,OPN9,I spend time reflecting on things.
+55,Agreeableness,AGR10,I make people feel at ease.
+55,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+55,Agreeableness,AGR6,I have a soft heart.
+55,Agreeableness,AGR8,I take time out for others.
+55,Conscientiousness,CSN1,I am always prepared.
+55,Conscientiousness,CSN10,I am exacting in my work.
+55,Conscientiousness,CSN3,I pay attention to details.
+55,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+55,Neuroticism,EST4,I seldom feel blue.
+55,Neuroticism,EST6,I get upset easily.
+55,Neuroticism,EST8,I have frequent mood swings.
+55,Neuroticism,EST9,I have a low tolerance for irritation.
+55,Extraversion,EXT3,I feel comfortable around people.
+55,Extraversion,EXT6,I have little to say.
+55,Extraversion,EXT8,I don't like to draw attention to myself.
+55,Extraversion,EXT9,I don't mind being the center of attention.
+55,Openness,OPN2,I have difficulty understanding abstract ideas.
+55,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+55,Openness,OPN7,I am quick to understand things.
+55,Openness,OPN9,I spend time reflecting on things.
+56,Agreeableness,AGR1,I feel little concern for others.
+56,Agreeableness,AGR10,I make people feel at ease.
+56,Agreeableness,AGR2,I am interested in people.
+56,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+56,Conscientiousness,CSN3,I pay attention to details.
+56,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+56,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+56,Conscientiousness,CSN9,I follow a schedule.
+56,Neuroticism,EST4,I seldom feel blue.
+56,Neuroticism,EST5,I am easily disturbed.
+56,Neuroticism,EST6,I get upset easily.
+56,Neuroticism,EST8,I have frequent mood swings.
+56,Extraversion,EXT1,I am the life of the party.
+56,Extraversion,EXT3,I feel comfortable around people.
+56,Extraversion,EXT8,I don't like to draw attention to myself.
+56,Extraversion,EXT9,I don't mind being the center of attention.
+56,Openness,OPN2,I have difficulty understanding abstract ideas.
+56,Openness,OPN5,I have excellent ideas.
+56,Openness,OPN7,I am quick to understand things.
+56,Openness,OPN9,I spend time reflecting on things.
+57,Agreeableness,AGR10,I make people feel at ease.
+57,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+57,Agreeableness,AGR4,I sympathize with others' feelings.
+57,Agreeableness,AGR8,I take time out for others.
+57,Conscientiousness,CSN1,I am always prepared.
+57,Conscientiousness,CSN10,I am exacting in my work.
+57,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+57,Conscientiousness,CSN3,I pay attention to details.
+57,Neuroticism,EST1,I get stressed out easily.
+57,Neuroticism,EST10,I often feel blue.
+57,Neuroticism,EST5,I am easily disturbed.
+57,Neuroticism,EST7,I change my mood a lot.
+57,Extraversion,EXT2,I prefer to listen more than I speak.
+57,Extraversion,EXT4,I keep in the background.
+57,Extraversion,EXT5,I start conversations.
+57,Extraversion,EXT8,I don't like to draw attention to myself.
+57,Openness,OPN2,I have difficulty understanding abstract ideas.
+57,Openness,OPN3,I have a vivid imagination.
+57,Openness,OPN7,I am quick to understand things.
+57,Openness,OPN9,I spend time reflecting on things.
+58,Agreeableness,AGR10,I make people feel at ease.
+58,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+58,Agreeableness,AGR4,I sympathize with others' feelings.
+58,Agreeableness,AGR8,I take time out for others.
+58,Conscientiousness,CSN1,I am always prepared.
+58,Conscientiousness,CSN10,I am exacting in my work.
+58,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+58,Conscientiousness,CSN3,I pay attention to details.
+58,Neuroticism,EST10,I often feel blue.
+58,Neuroticism,EST2,I am relaxed most of the time.
+58,Neuroticism,EST5,I am easily disturbed.
+58,Neuroticism,EST8,I have frequent mood swings.
+58,Extraversion,EXT1,I am the life of the party.
+58,Extraversion,EXT3,I feel comfortable around people.
+58,Extraversion,EXT5,I start conversations.
+58,Extraversion,EXT8,I don't like to draw attention to myself.
+58,Openness,OPN10,I am full of ideas.
+58,Openness,OPN2,I have difficulty understanding abstract ideas.
+58,Openness,OPN7,I am quick to understand things.
+58,Openness,OPN9,I spend time reflecting on things.
+59,Agreeableness,AGR1,I feel little concern for others.
+59,Agreeableness,AGR10,I make people feel at ease.
+59,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+59,Agreeableness,AGR4,I sympathize with others' feelings.
+59,Agreeableness,AGR9,I feel others' emotions.
+59,Conscientiousness,CSN1,I am always prepared.
+59,Conscientiousness,CSN3,I pay attention to details.
+59,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+59,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+59,Neuroticism,EST10,I often feel blue.
+59,Neuroticism,EST6,I get upset easily.
+59,Neuroticism,EST7,I change my mood a lot.
+59,Neuroticism,EST9,I have a low tolerance for irritation.
+59,Extraversion,EXT4,I keep in the background.
+59,Extraversion,EXT5,I start conversations.
+59,Extraversion,EXT7,I talk to a lot of different people at parties.
+59,Extraversion,EXT8,I don't like to draw attention to myself.
+59,Openness,OPN2,I have difficulty understanding abstract ideas.
+59,Openness,OPN5,I have excellent ideas.
+59,Openness,OPN9,I spend time reflecting on things.
+60,Agreeableness,AGR1,I feel little concern for others.
+60,Agreeableness,AGR10,I make people feel at ease.
+60,Agreeableness,AGR2,I am interested in people.
+60,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+60,Conscientiousness,CSN1,I am always prepared.
+60,Conscientiousness,CSN3,I pay attention to details.
+60,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+60,Conscientiousness,CSN7,I like order.
+60,Neuroticism,EST10,I often feel blue.
+60,Neuroticism,EST3,I worry about things.
+60,Neuroticism,EST5,I am easily disturbed.
+60,Neuroticism,EST8,I have frequent mood swings.
+60,Extraversion,EXT1,I am the life of the party.
+60,Extraversion,EXT3,I feel comfortable around people.
+60,Extraversion,EXT8,I don't like to draw attention to myself.
+60,Extraversion,EXT9,I don't mind being the center of attention.
+60,Openness,OPN10,I am full of ideas.
+60,Openness,OPN4,I am not interested in abstract ideas.
+60,Openness,OPN7,I am quick to understand things.
+60,Openness,OPN9,I spend time reflecting on things.
+61,Agreeableness,AGR1,I feel little concern for others.
+61,Agreeableness,AGR10,I make people feel at ease.
+61,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+61,Agreeableness,AGR7,I am not really interested in others.
+61,Conscientiousness,CSN3,I pay attention to details.
+61,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+61,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+61,Conscientiousness,CSN9,I follow a schedule.
+61,Neuroticism,EST1,I get stressed out easily.
+61,Neuroticism,EST4,I seldom feel blue.
+61,Neuroticism,EST8,I have frequent mood swings.
+61,Neuroticism,EST9,I have a low tolerance for irritation.
+61,Extraversion,EXT4,I keep in the background.
+61,Extraversion,EXT5,I start conversations.
+61,Extraversion,EXT7,I talk to a lot of different people at parties.
+61,Extraversion,EXT8,I don't like to draw attention to myself.
+61,Openness,OPN3,I have a vivid imagination.
+61,Openness,OPN7,I am quick to understand things.
+61,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+61,Openness,OPN9,I spend time reflecting on things.
+62,Agreeableness,AGR10,I make people feel at ease.
+62,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+62,Agreeableness,AGR4,I sympathize with others' feelings.
+62,Agreeableness,AGR8,I take time out for others.
+62,Agreeableness,AGR9,I feel others' emotions.
+62,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+62,Conscientiousness,CSN3,I pay attention to details.
+62,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+62,Conscientiousness,CSN9,I follow a schedule.
+62,Neuroticism,EST10,I often feel blue.
+62,Neuroticism,EST3,I worry about things.
+62,Neuroticism,EST5,I am easily disturbed.
+62,Neuroticism,EST7,I change my mood a lot.
+62,Extraversion,EXT4,I keep in the background.
+62,Extraversion,EXT5,I start conversations.
+62,Extraversion,EXT7,I talk to a lot of different people at parties.
+62,Extraversion,EXT8,I don't like to draw attention to myself.
+62,Openness,OPN2,I have difficulty understanding abstract ideas.
+62,Openness,OPN5,I have excellent ideas.
+62,Openness,OPN9,I spend time reflecting on things.
+63,Agreeableness,AGR10,I make people feel at ease.
+63,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+63,Agreeableness,AGR4,I sympathize with others' feelings.
+63,Agreeableness,AGR8,I take time out for others.
+63,Agreeableness,AGR9,I feel others' emotions.
+63,Conscientiousness,CSN3,I pay attention to details.
+63,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+63,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+63,Conscientiousness,CSN9,I follow a schedule.
+63,Neuroticism,EST10,I often feel blue.
+63,Neuroticism,EST6,I get upset easily.
+63,Neuroticism,EST7,I change my mood a lot.
+63,Neuroticism,EST9,I have a low tolerance for irritation.
+63,Extraversion,EXT4,I keep in the background.
+63,Extraversion,EXT5,I start conversations.
+63,Extraversion,EXT6,I have little to say.
+63,Extraversion,EXT8,I don't like to draw attention to myself.
+63,Openness,OPN10,I am full of ideas.
+63,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+63,Openness,OPN9,I spend time reflecting on things.
+64,Agreeableness,AGR10,I make people feel at ease.
+64,Agreeableness,AGR2,I am interested in people.
+64,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+64,Agreeableness,AGR8,I take time out for others.
+64,Agreeableness,AGR9,I feel others' emotions.
+64,Conscientiousness,CSN1,I am always prepared.
+64,Conscientiousness,CSN3,I pay attention to details.
+64,Conscientiousness,CSN5,I get chores done right away.
+64,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+64,Neuroticism,EST10,I often feel blue.
+64,Neuroticism,EST5,I am easily disturbed.
+64,Neuroticism,EST6,I get upset easily.
+64,Neuroticism,EST8,I have frequent mood swings.
+64,Extraversion,EXT10,I am quiet around strangers.
+64,Extraversion,EXT3,I feel comfortable around people.
+64,Extraversion,EXT5,I start conversations.
+64,Extraversion,EXT8,I don't like to draw attention to myself.
+64,Openness,OPN1,I have a rich vocabulary.
+64,Openness,OPN5,I have excellent ideas.
+64,Openness,OPN9,I spend time reflecting on things.
+65,Agreeableness,AGR1,I feel little concern for others.
+65,Agreeableness,AGR10,I make people feel at ease.
+65,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+65,Agreeableness,AGR6,I have a soft heart.
+65,Conscientiousness,CSN1,I am always prepared.
+65,Conscientiousness,CSN3,I pay attention to details.
+65,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+65,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+65,Neuroticism,EST10,I often feel blue.
+65,Neuroticism,EST6,I get upset easily.
+65,Neuroticism,EST7,I change my mood a lot.
+65,Neuroticism,EST9,I have a low tolerance for irritation.
+65,Extraversion,EXT1,I am the life of the party.
+65,Extraversion,EXT3,I feel comfortable around people.
+65,Extraversion,EXT5,I start conversations.
+65,Extraversion,EXT8,I don't like to draw attention to myself.
+65,Openness,OPN2,I have difficulty understanding abstract ideas.
+65,Openness,OPN5,I have excellent ideas.
+65,Openness,OPN7,I am quick to understand things.
+65,Openness,OPN9,I spend time reflecting on things.
+66,Agreeableness,AGR1,I feel little concern for others.
+66,Agreeableness,AGR10,I make people feel at ease.
+66,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+66,Agreeableness,AGR6,I have a soft heart.
+66,Conscientiousness,CSN1,I am always prepared.
+66,Conscientiousness,CSN3,I pay attention to details.
+66,Conscientiousness,CSN5,I get chores done right away.
+66,Conscientiousness,CSN7,I like order.
+66,Neuroticism,EST4,I seldom feel blue.
+66,Neuroticism,EST5,I am easily disturbed.
+66,Neuroticism,EST6,I get upset easily.
+66,Neuroticism,EST8,I have frequent mood swings.
+66,Extraversion,EXT10,I am quiet around strangers.
+66,Extraversion,EXT3,I feel comfortable around people.
+66,Extraversion,EXT8,I don't like to draw attention to myself.
+66,Extraversion,EXT9,I don't mind being the center of attention.
+66,Openness,OPN1,I have a rich vocabulary.
+66,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+66,Openness,OPN7,I am quick to understand things.
+66,Openness,OPN9,I spend time reflecting on things.
+67,Agreeableness,AGR10,I make people feel at ease.
+67,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+67,Agreeableness,AGR7,I am not really interested in others.
+67,Agreeableness,AGR8,I take time out for others.
+67,Conscientiousness,CSN1,I am always prepared.
+67,Conscientiousness,CSN10,I am exacting in my work.
+67,Conscientiousness,CSN3,I pay attention to details.
+67,Conscientiousness,CSN5,I get chores done right away.
+67,Neuroticism,EST4,I seldom feel blue.
+67,Neuroticism,EST6,I get upset easily.
+67,Neuroticism,EST8,I have frequent mood swings.
+67,Neuroticism,EST9,I have a low tolerance for irritation.
+67,Extraversion,EXT1,I am the life of the party.
+67,Extraversion,EXT4,I keep in the background.
+67,Extraversion,EXT8,I don't like to draw attention to myself.
+67,Extraversion,EXT9,I don't mind being the center of attention.
+67,Openness,OPN1,I have a rich vocabulary.
+67,Openness,OPN5,I have excellent ideas.
+67,Openness,OPN7,I am quick to understand things.
+67,Openness,OPN9,I spend time reflecting on things.
+68,Agreeableness,AGR10,I make people feel at ease.
+68,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+68,Agreeableness,AGR7,I am not really interested in others.
+68,Agreeableness,AGR8,I take time out for others.
+68,Agreeableness,AGR9,I feel others' emotions.
+68,Conscientiousness,CSN1,I am always prepared.
+68,Conscientiousness,CSN10,I am exacting in my work.
+68,Conscientiousness,CSN3,I pay attention to details.
+68,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+68,Neuroticism,EST3,I worry about things.
+68,Neuroticism,EST4,I seldom feel blue.
+68,Neuroticism,EST8,I have frequent mood swings.
+68,Neuroticism,EST9,I have a low tolerance for irritation.
+68,Extraversion,EXT4,I keep in the background.
+68,Extraversion,EXT6,I have little to say.
+68,Extraversion,EXT8,I don't like to draw attention to myself.
+68,Extraversion,EXT9,I don't mind being the center of attention.
+68,Openness,OPN3,I have a vivid imagination.
+68,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+68,Openness,OPN9,I spend time reflecting on things.
+69,Agreeableness,AGR1,I feel little concern for others.
+69,Agreeableness,AGR10,I make people feel at ease.
+69,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+69,Agreeableness,AGR6,I have a soft heart.
+69,Conscientiousness,CSN1,I am always prepared.
+69,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+69,Conscientiousness,CSN3,I pay attention to details.
+69,Conscientiousness,CSN7,I like order.
+69,Neuroticism,EST1,I get stressed out easily.
+69,Neuroticism,EST10,I often feel blue.
+69,Neuroticism,EST5,I am easily disturbed.
+69,Neuroticism,EST7,I change my mood a lot.
+69,Extraversion,EXT10,I am quiet around strangers.
+69,Extraversion,EXT4,I keep in the background.
+69,Extraversion,EXT8,I don't like to draw attention to myself.
+69,Extraversion,EXT9,I don't mind being the center of attention.
+69,Openness,OPN2,I have difficulty understanding abstract ideas.
+69,Openness,OPN5,I have excellent ideas.
+69,Openness,OPN7,I am quick to understand things.
+69,Openness,OPN9,I spend time reflecting on things.
+70,Agreeableness,AGR10,I make people feel at ease.
+70,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+70,Agreeableness,AGR5,I am not interested in other people's problems.
+70,Agreeableness,AGR8,I take time out for others.
+70,Agreeableness,AGR9,I feel others' emotions.
+70,Conscientiousness,CSN3,I pay attention to details.
+70,Conscientiousness,CSN5,I get chores done right away.
+70,Conscientiousness,CSN7,I like order.
+70,Conscientiousness,CSN9,I follow a schedule.
+70,Neuroticism,EST3,I worry about things.
+70,Neuroticism,EST4,I seldom feel blue.
+70,Neuroticism,EST5,I am easily disturbed.
+70,Neuroticism,EST7,I change my mood a lot.
+70,Extraversion,EXT10,I am quiet around strangers.
+70,Extraversion,EXT4,I keep in the background.
+70,Extraversion,EXT8,I don't like to draw attention to myself.
+70,Extraversion,EXT9,I don't mind being the center of attention.
+70,Openness,OPN1,I have a rich vocabulary.
+70,Openness,OPN3,I have a vivid imagination.
+70,Openness,OPN9,I spend time reflecting on things.
+71,Agreeableness,AGR1,I feel little concern for others.
+71,Agreeableness,AGR10,I make people feel at ease.
+71,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+71,Agreeableness,AGR5,I am not interested in other people's problems.
+71,Agreeableness,AGR9,I feel others' emotions.
+71,Conscientiousness,CSN10,I am exacting in my work.
+71,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+71,Conscientiousness,CSN3,I pay attention to details.
+71,Conscientiousness,CSN9,I follow a schedule.
+71,Neuroticism,EST3,I worry about things.
+71,Neuroticism,EST4,I seldom feel blue.
+71,Neuroticism,EST5,I am easily disturbed.
+71,Neuroticism,EST8,I have frequent mood swings.
+71,Extraversion,EXT3,I feel comfortable around people.
+71,Extraversion,EXT7,I talk to a lot of different people at parties.
+71,Extraversion,EXT8,I don't like to draw attention to myself.
+71,Extraversion,EXT9,I don't mind being the center of attention.
+71,Openness,OPN3,I have a vivid imagination.
+71,Openness,OPN4,I am not interested in abstract ideas.
+71,Openness,OPN9,I spend time reflecting on things.
+72,Agreeableness,AGR10,I make people feel at ease.
+72,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+72,Agreeableness,AGR5,I am not interested in other people's problems.
+72,Agreeableness,AGR8,I take time out for others.
+72,Conscientiousness,CSN1,I am always prepared.
+72,Conscientiousness,CSN3,I pay attention to details.
+72,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+72,Conscientiousness,CSN7,I like order.
+72,Neuroticism,EST4,I seldom feel blue.
+72,Neuroticism,EST6,I get upset easily.
+72,Neuroticism,EST7,I change my mood a lot.
+72,Neuroticism,EST9,I have a low tolerance for irritation.
+72,Extraversion,EXT1,I am the life of the party.
+72,Extraversion,EXT3,I feel comfortable around people.
+72,Extraversion,EXT5,I start conversations.
+72,Extraversion,EXT8,I don't like to draw attention to myself.
+72,Openness,OPN2,I have difficulty understanding abstract ideas.
+72,Openness,OPN5,I have excellent ideas.
+72,Openness,OPN7,I am quick to understand things.
+72,Openness,OPN9,I spend time reflecting on things.
+73,Agreeableness,AGR10,I make people feel at ease.
+73,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+73,Agreeableness,AGR5,I am not interested in other people's problems.
+73,Agreeableness,AGR8,I take time out for others.
+73,Agreeableness,AGR9,I feel others' emotions.
+73,Conscientiousness,CSN1,I am always prepared.
+73,Conscientiousness,CSN3,I pay attention to details.
+73,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+73,Conscientiousness,CSN7,I like order.
+73,Neuroticism,EST1,I get stressed out easily.
+73,Neuroticism,EST4,I seldom feel blue.
+73,Neuroticism,EST8,I have frequent mood swings.
+73,Neuroticism,EST9,I have a low tolerance for irritation.
+73,Extraversion,EXT10,I am quiet around strangers.
+73,Extraversion,EXT4,I keep in the background.
+73,Extraversion,EXT5,I start conversations.
+73,Extraversion,EXT8,I don't like to draw attention to myself.
+73,Openness,OPN5,I have excellent ideas.
+73,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+73,Openness,OPN9,I spend time reflecting on things.
+74,Agreeableness,AGR1,I feel little concern for others.
+74,Agreeableness,AGR10,I make people feel at ease.
+74,Agreeableness,AGR2,I am interested in people.
+74,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+74,Agreeableness,AGR9,I feel others' emotions.
+74,Conscientiousness,CSN1,I am always prepared.
+74,Conscientiousness,CSN10,I am exacting in my work.
+74,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+74,Conscientiousness,CSN3,I pay attention to details.
+74,Neuroticism,EST1,I get stressed out easily.
+74,Neuroticism,EST10,I often feel blue.
+74,Neuroticism,EST8,I have frequent mood swings.
+74,Neuroticism,EST9,I have a low tolerance for irritation.
+74,Extraversion,EXT3,I feel comfortable around people.
+74,Extraversion,EXT5,I start conversations.
+74,Extraversion,EXT7,I talk to a lot of different people at parties.
+74,Extraversion,EXT8,I don't like to draw attention to myself.
+74,Openness,OPN10,I am full of ideas.
+74,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+74,Openness,OPN9,I spend time reflecting on things.
+75,Agreeableness,AGR10,I make people feel at ease.
+75,Agreeableness,AGR2,I am interested in people.
+75,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+75,Agreeableness,AGR8,I take time out for others.
+75,Conscientiousness,CSN1,I am always prepared.
+75,Conscientiousness,CSN10,I am exacting in my work.
+75,Conscientiousness,CSN3,I pay attention to details.
+75,Conscientiousness,CSN5,I get chores done right away.
+75,Neuroticism,EST1,I get stressed out easily.
+75,Neuroticism,EST4,I seldom feel blue.
+75,Neuroticism,EST5,I am easily disturbed.
+75,Neuroticism,EST7,I change my mood a lot.
+75,Extraversion,EXT4,I keep in the background.
+75,Extraversion,EXT5,I start conversations.
+75,Extraversion,EXT6,I have little to say.
+75,Extraversion,EXT8,I don't like to draw attention to myself.
+75,Openness,OPN3,I have a vivid imagination.
+75,Openness,OPN7,I am quick to understand things.
+75,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+75,Openness,OPN9,I spend time reflecting on things.
+76,Agreeableness,AGR1,I feel little concern for others.
+76,Agreeableness,AGR10,I make people feel at ease.
+76,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+76,Agreeableness,AGR4,I sympathize with others' feelings.
+76,Conscientiousness,CSN1,I am always prepared.
+76,Conscientiousness,CSN3,I pay attention to details.
+76,Conscientiousness,CSN5,I get chores done right away.
+76,Conscientiousness,CSN7,I like order.
+76,Neuroticism,EST3,I worry about things.
+76,Neuroticism,EST4,I seldom feel blue.
+76,Neuroticism,EST8,I have frequent mood swings.
+76,Neuroticism,EST9,I have a low tolerance for irritation.
+76,Extraversion,EXT2,I prefer to listen more than I speak.
+76,Extraversion,EXT4,I keep in the background.
+76,Extraversion,EXT8,I don't like to draw attention to myself.
+76,Extraversion,EXT9,I don't mind being the center of attention.
+76,Openness,OPN1,I have a rich vocabulary.
+76,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+76,Openness,OPN7,I am quick to understand things.
+76,Openness,OPN9,I spend time reflecting on things.
+77,Agreeableness,AGR10,I make people feel at ease.
+77,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+77,Agreeableness,AGR6,I have a soft heart.
+77,Agreeableness,AGR8,I take time out for others.
+77,Agreeableness,AGR9,I feel others' emotions.
+77,Conscientiousness,CSN1,I am always prepared.
+77,Conscientiousness,CSN10,I am exacting in my work.
+77,Conscientiousness,CSN3,I pay attention to details.
+77,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+77,Neuroticism,EST1,I get stressed out easily.
+77,Neuroticism,EST10,I often feel blue.
+77,Neuroticism,EST7,I change my mood a lot.
+77,Neuroticism,EST9,I have a low tolerance for irritation.
+77,Extraversion,EXT4,I keep in the background.
+77,Extraversion,EXT5,I start conversations.
+77,Extraversion,EXT7,I talk to a lot of different people at parties.
+77,Extraversion,EXT8,I don't like to draw attention to myself.
+77,Openness,OPN2,I have difficulty understanding abstract ideas.
+77,Openness,OPN5,I have excellent ideas.
+77,Openness,OPN9,I spend time reflecting on things.
+78,Agreeableness,AGR10,I make people feel at ease.
+78,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+78,Agreeableness,AGR4,I sympathize with others' feelings.
+78,Agreeableness,AGR8,I take time out for others.
+78,Agreeableness,AGR9,I feel others' emotions.
+78,Conscientiousness,CSN1,I am always prepared.
+78,Conscientiousness,CSN3,I pay attention to details.
+78,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+78,Conscientiousness,CSN7,I like order.
+78,Neuroticism,EST10,I often feel blue.
+78,Neuroticism,EST2,I am relaxed most of the time.
+78,Neuroticism,EST5,I am easily disturbed.
+78,Neuroticism,EST8,I have frequent mood swings.
+78,Extraversion,EXT2,I prefer to listen more than I speak.
+78,Extraversion,EXT3,I feel comfortable around people.
+78,Extraversion,EXT5,I start conversations.
+78,Extraversion,EXT8,I don't like to draw attention to myself.
+78,Openness,OPN4,I am not interested in abstract ideas.
+78,Openness,OPN5,I have excellent ideas.
+78,Openness,OPN9,I spend time reflecting on things.
+79,Agreeableness,AGR10,I make people feel at ease.
+79,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+79,Agreeableness,AGR4,I sympathize with others' feelings.
+79,Agreeableness,AGR8,I take time out for others.
+79,Agreeableness,AGR9,I feel others' emotions.
+79,Conscientiousness,CSN3,I pay attention to details.
+79,Conscientiousness,CSN5,I get chores done right away.
+79,Conscientiousness,CSN7,I like order.
+79,Conscientiousness,CSN9,I follow a schedule.
+79,Neuroticism,EST4,I seldom feel blue.
+79,Neuroticism,EST6,I get upset easily.
+79,Neuroticism,EST8,I have frequent mood swings.
+79,Neuroticism,EST9,I have a low tolerance for irritation.
+79,Extraversion,EXT3,I feel comfortable around people.
+79,Extraversion,EXT6,I have little to say.
+79,Extraversion,EXT8,I don't like to draw attention to myself.
+79,Extraversion,EXT9,I don't mind being the center of attention.
+79,Openness,OPN10,I am full of ideas.
+79,Openness,OPN2,I have difficulty understanding abstract ideas.
+79,Openness,OPN9,I spend time reflecting on things.
+80,Agreeableness,AGR1,I feel little concern for others.
+80,Agreeableness,AGR10,I make people feel at ease.
+80,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+80,Agreeableness,AGR7,I am not really interested in others.
+80,Agreeableness,AGR9,I feel others' emotions.
+80,Conscientiousness,CSN3,I pay attention to details.
+80,Conscientiousness,CSN5,I get chores done right away.
+80,Conscientiousness,CSN7,I like order.
+80,Conscientiousness,CSN9,I follow a schedule.
+80,Neuroticism,EST1,I get stressed out easily.
+80,Neuroticism,EST10,I often feel blue.
+80,Neuroticism,EST7,I change my mood a lot.
+80,Neuroticism,EST9,I have a low tolerance for irritation.
+80,Extraversion,EXT1,I am the life of the party.
+80,Extraversion,EXT3,I feel comfortable around people.
+80,Extraversion,EXT8,I don't like to draw attention to myself.
+80,Extraversion,EXT9,I don't mind being the center of attention.
+80,Openness,OPN4,I am not interested in abstract ideas.
+80,Openness,OPN5,I have excellent ideas.
+80,Openness,OPN9,I spend time reflecting on things.
+81,Agreeableness,AGR1,I feel little concern for others.
+81,Agreeableness,AGR10,I make people feel at ease.
+81,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+81,Agreeableness,AGR5,I am not interested in other people's problems.
+81,Conscientiousness,CSN10,I am exacting in my work.
+81,Conscientiousness,CSN3,I pay attention to details.
+81,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+81,Conscientiousness,CSN9,I follow a schedule.
+81,Neuroticism,EST1,I get stressed out easily.
+81,Neuroticism,EST4,I seldom feel blue.
+81,Neuroticism,EST7,I change my mood a lot.
+81,Neuroticism,EST9,I have a low tolerance for irritation.
+81,Extraversion,EXT2,I prefer to listen more than I speak.
+81,Extraversion,EXT3,I feel comfortable around people.
+81,Extraversion,EXT8,I don't like to draw attention to myself.
+81,Extraversion,EXT9,I don't mind being the center of attention.
+81,Openness,OPN2,I have difficulty understanding abstract ideas.
+81,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+81,Openness,OPN7,I am quick to understand things.
+81,Openness,OPN9,I spend time reflecting on things.
+82,Agreeableness,AGR10,I make people feel at ease.
+82,Agreeableness,AGR2,I am interested in people.
+82,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+82,Agreeableness,AGR8,I take time out for others.
+82,Agreeableness,AGR9,I feel others' emotions.
+82,Conscientiousness,CSN1,I am always prepared.
+82,Conscientiousness,CSN10,I am exacting in my work.
+82,Conscientiousness,CSN3,I pay attention to details.
+82,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+82,Neuroticism,EST3,I worry about things.
+82,Neuroticism,EST4,I seldom feel blue.
+82,Neuroticism,EST5,I am easily disturbed.
+82,Neuroticism,EST8,I have frequent mood swings.
+82,Extraversion,EXT4,I keep in the background.
+82,Extraversion,EXT7,I talk to a lot of different people at parties.
+82,Extraversion,EXT8,I don't like to draw attention to myself.
+82,Extraversion,EXT9,I don't mind being the center of attention.
+82,Openness,OPN4,I am not interested in abstract ideas.
+82,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+82,Openness,OPN9,I spend time reflecting on things.
+83,Agreeableness,AGR1,I feel little concern for others.
+83,Agreeableness,AGR10,I make people feel at ease.
+83,Agreeableness,AGR2,I am interested in people.
+83,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+83,Conscientiousness,CSN10,I am exacting in my work.
+83,Conscientiousness,CSN3,I pay attention to details.
+83,Conscientiousness,CSN5,I get chores done right away.
+83,Conscientiousness,CSN9,I follow a schedule.
+83,Neuroticism,EST10,I often feel blue.
+83,Neuroticism,EST2,I am relaxed most of the time.
+83,Neuroticism,EST5,I am easily disturbed.
+83,Neuroticism,EST7,I change my mood a lot.
+83,Extraversion,EXT3,I feel comfortable around people.
+83,Extraversion,EXT5,I start conversations.
+83,Extraversion,EXT7,I talk to a lot of different people at parties.
+83,Extraversion,EXT8,I don't like to draw attention to myself.
+83,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+83,Openness,OPN7,I am quick to understand things.
+83,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+83,Openness,OPN9,I spend time reflecting on things.
+84,Agreeableness,AGR10,I make people feel at ease.
+84,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+84,Agreeableness,AGR4,I sympathize with others' feelings.
+84,Agreeableness,AGR8,I take time out for others.
+84,Conscientiousness,CSN3,I pay attention to details.
+84,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+84,Conscientiousness,CSN7,I like order.
+84,Conscientiousness,CSN9,I follow a schedule.
+84,Neuroticism,EST1,I get stressed out easily.
+84,Neuroticism,EST4,I seldom feel blue.
+84,Neuroticism,EST7,I change my mood a lot.
+84,Neuroticism,EST9,I have a low tolerance for irritation.
+84,Extraversion,EXT10,I am quiet around strangers.
+84,Extraversion,EXT3,I feel comfortable around people.
+84,Extraversion,EXT8,I don't like to draw attention to myself.
+84,Extraversion,EXT9,I don't mind being the center of attention.
+84,Openness,OPN4,I am not interested in abstract ideas.
+84,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+84,Openness,OPN7,I am quick to understand things.
+84,Openness,OPN9,I spend time reflecting on things.
+85,Agreeableness,AGR1,I feel little concern for others.
+85,Agreeableness,AGR10,I make people feel at ease.
+85,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+85,Agreeableness,AGR7,I am not really interested in others.
+85,Agreeableness,AGR9,I feel others' emotions.
+85,Conscientiousness,CSN1,I am always prepared.
+85,Conscientiousness,CSN10,I am exacting in my work.
+85,Conscientiousness,CSN3,I pay attention to details.
+85,Conscientiousness,CSN5,I get chores done right away.
+85,Neuroticism,EST1,I get stressed out easily.
+85,Neuroticism,EST4,I seldom feel blue.
+85,Neuroticism,EST5,I am easily disturbed.
+85,Neuroticism,EST8,I have frequent mood swings.
+85,Extraversion,EXT1,I am the life of the party.
+85,Extraversion,EXT3,I feel comfortable around people.
+85,Extraversion,EXT8,I don't like to draw attention to myself.
+85,Extraversion,EXT9,I don't mind being the center of attention.
+85,Openness,OPN3,I have a vivid imagination.
+85,Openness,OPN4,I am not interested in abstract ideas.
+85,Openness,OPN9,I spend time reflecting on things.
+86,Agreeableness,AGR1,I feel little concern for others.
+86,Agreeableness,AGR10,I make people feel at ease.
+86,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+86,Agreeableness,AGR6,I have a soft heart.
+86,Agreeableness,AGR9,I feel others' emotions.
+86,Conscientiousness,CSN3,I pay attention to details.
+86,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+86,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+86,Conscientiousness,CSN9,I follow a schedule.
+86,Neuroticism,EST10,I often feel blue.
+86,Neuroticism,EST3,I worry about things.
+86,Neuroticism,EST5,I am easily disturbed.
+86,Neuroticism,EST8,I have frequent mood swings.
+86,Extraversion,EXT1,I am the life of the party.
+86,Extraversion,EXT3,I feel comfortable around people.
+86,Extraversion,EXT5,I start conversations.
+86,Extraversion,EXT8,I don't like to draw attention to myself.
+86,Openness,OPN1,I have a rich vocabulary.
+86,Openness,OPN3,I have a vivid imagination.
+86,Openness,OPN9,I spend time reflecting on things.
+87,Agreeableness,AGR1,I feel little concern for others.
+87,Agreeableness,AGR10,I make people feel at ease.
+87,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+87,Agreeableness,AGR6,I have a soft heart.
+87,Conscientiousness,CSN3,I pay attention to details.
+87,Conscientiousness,CSN5,I get chores done right away.
+87,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+87,Conscientiousness,CSN9,I follow a schedule.
+87,Neuroticism,EST1,I get stressed out easily.
+87,Neuroticism,EST4,I seldom feel blue.
+87,Neuroticism,EST7,I change my mood a lot.
+87,Neuroticism,EST9,I have a low tolerance for irritation.
+87,Extraversion,EXT3,I feel comfortable around people.
+87,Extraversion,EXT5,I start conversations.
+87,Extraversion,EXT6,I have little to say.
+87,Extraversion,EXT8,I don't like to draw attention to myself.
+87,Openness,OPN10,I am full of ideas.
+87,Openness,OPN4,I am not interested in abstract ideas.
+87,Openness,OPN7,I am quick to understand things.
+87,Openness,OPN9,I spend time reflecting on things.
+88,Agreeableness,AGR1,I feel little concern for others.
+88,Agreeableness,AGR10,I make people feel at ease.
+88,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+88,Agreeableness,AGR4,I sympathize with others' feelings.
+88,Conscientiousness,CSN10,I am exacting in my work.
+88,Conscientiousness,CSN3,I pay attention to details.
+88,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+88,Conscientiousness,CSN9,I follow a schedule.
+88,Neuroticism,EST10,I often feel blue.
+88,Neuroticism,EST2,I am relaxed most of the time.
+88,Neuroticism,EST8,I have frequent mood swings.
+88,Neuroticism,EST9,I have a low tolerance for irritation.
+88,Extraversion,EXT1,I am the life of the party.
+88,Extraversion,EXT4,I keep in the background.
+88,Extraversion,EXT8,I don't like to draw attention to myself.
+88,Extraversion,EXT9,I don't mind being the center of attention.
+88,Openness,OPN4,I am not interested in abstract ideas.
+88,Openness,OPN5,I have excellent ideas.
+88,Openness,OPN7,I am quick to understand things.
+88,Openness,OPN9,I spend time reflecting on things.
+89,Agreeableness,AGR1,I feel little concern for others.
+89,Agreeableness,AGR10,I make people feel at ease.
+89,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+89,Agreeableness,AGR7,I am not really interested in others.
+89,Agreeableness,AGR9,I feel others' emotions.
+89,Conscientiousness,CSN3,I pay attention to details.
+89,Conscientiousness,CSN5,I get chores done right away.
+89,Conscientiousness,CSN7,I like order.
+89,Conscientiousness,CSN9,I follow a schedule.
+89,Neuroticism,EST1,I get stressed out easily.
+89,Neuroticism,EST4,I seldom feel blue.
+89,Neuroticism,EST5,I am easily disturbed.
+89,Neuroticism,EST8,I have frequent mood swings.
+89,Extraversion,EXT3,I feel comfortable around people.
+89,Extraversion,EXT7,I talk to a lot of different people at parties.
+89,Extraversion,EXT8,I don't like to draw attention to myself.
+89,Extraversion,EXT9,I don't mind being the center of attention.
+89,Openness,OPN1,I have a rich vocabulary.
+89,Openness,OPN10,I am full of ideas.
+89,Openness,OPN9,I spend time reflecting on things.
+90,Agreeableness,AGR1,I feel little concern for others.
+90,Agreeableness,AGR10,I make people feel at ease.
+90,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+90,Agreeableness,AGR6,I have a soft heart.
+90,Conscientiousness,CSN1,I am always prepared.
+90,Conscientiousness,CSN3,I pay attention to details.
+90,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+90,Conscientiousness,CSN7,I like order.
+90,Neuroticism,EST10,I often feel blue.
+90,Neuroticism,EST2,I am relaxed most of the time.
+90,Neuroticism,EST8,I have frequent mood swings.
+90,Neuroticism,EST9,I have a low tolerance for irritation.
+90,Extraversion,EXT3,I feel comfortable around people.
+90,Extraversion,EXT7,I talk to a lot of different people at parties.
+90,Extraversion,EXT8,I don't like to draw attention to myself.
+90,Extraversion,EXT9,I don't mind being the center of attention.
+90,Openness,OPN4,I am not interested in abstract ideas.
+90,Openness,OPN5,I have excellent ideas.
+90,Openness,OPN7,I am quick to understand things.
+90,Openness,OPN9,I spend time reflecting on things.
+91,Agreeableness,AGR10,I make people feel at ease.
+91,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+91,Agreeableness,AGR7,I am not really interested in others.
+91,Agreeableness,AGR8,I take time out for others.
+91,Conscientiousness,CSN10,I am exacting in my work.
+91,Conscientiousness,CSN3,I pay attention to details.
+91,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+91,Conscientiousness,CSN9,I follow a schedule.
+91,Neuroticism,EST1,I get stressed out easily.
+91,Neuroticism,EST10,I often feel blue.
+91,Neuroticism,EST5,I am easily disturbed.
+91,Neuroticism,EST8,I have frequent mood swings.
+91,Extraversion,EXT10,I am quiet around strangers.
+91,Extraversion,EXT3,I feel comfortable around people.
+91,Extraversion,EXT5,I start conversations.
+91,Extraversion,EXT8,I don't like to draw attention to myself.
+91,Openness,OPN3,I have a vivid imagination.
+91,Openness,OPN4,I am not interested in abstract ideas.
+91,Openness,OPN7,I am quick to understand things.
+91,Openness,OPN9,I spend time reflecting on things.
+92,Agreeableness,AGR1,I feel little concern for others.
+92,Agreeableness,AGR10,I make people feel at ease.
+92,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+92,Agreeableness,AGR5,I am not interested in other people's problems.
+92,Agreeableness,AGR9,I feel others' emotions.
+92,Conscientiousness,CSN10,I am exacting in my work.
+92,Conscientiousness,CSN3,I pay attention to details.
+92,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+92,Conscientiousness,CSN9,I follow a schedule.
+92,Neuroticism,EST1,I get stressed out easily.
+92,Neuroticism,EST4,I seldom feel blue.
+92,Neuroticism,EST7,I change my mood a lot.
+92,Neuroticism,EST9,I have a low tolerance for irritation.
+92,Extraversion,EXT10,I am quiet around strangers.
+92,Extraversion,EXT3,I feel comfortable around people.
+92,Extraversion,EXT5,I start conversations.
+92,Extraversion,EXT8,I don't like to draw attention to myself.
+92,Openness,OPN2,I have difficulty understanding abstract ideas.
+92,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+92,Openness,OPN9,I spend time reflecting on things.
+93,Agreeableness,AGR10,I make people feel at ease.
+93,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+93,Agreeableness,AGR4,I sympathize with others' feelings.
+93,Agreeableness,AGR8,I take time out for others.
+93,Conscientiousness,CSN1,I am always prepared.
+93,Conscientiousness,CSN3,I pay attention to details.
+93,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+93,Conscientiousness,CSN7,I like order.
+93,Neuroticism,EST10,I often feel blue.
+93,Neuroticism,EST2,I am relaxed most of the time.
+93,Neuroticism,EST8,I have frequent mood swings.
+93,Neuroticism,EST9,I have a low tolerance for irritation.
+93,Extraversion,EXT2,I prefer to listen more than I speak.
+93,Extraversion,EXT4,I keep in the background.
+93,Extraversion,EXT5,I start conversations.
+93,Extraversion,EXT8,I don't like to draw attention to myself.
+93,Openness,OPN3,I have a vivid imagination.
+93,Openness,OPN4,I am not interested in abstract ideas.
+93,Openness,OPN7,I am quick to understand things.
+93,Openness,OPN9,I spend time reflecting on things.
+94,Agreeableness,AGR1,I feel little concern for others.
+94,Agreeableness,AGR10,I make people feel at ease.
+94,Agreeableness,AGR2,I am interested in people.
+94,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+94,Agreeableness,AGR9,I feel others' emotions.
+94,Conscientiousness,CSN3,I pay attention to details.
+94,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+94,Conscientiousness,CSN7,I like order.
+94,Conscientiousness,CSN9,I follow a schedule.
+94,Neuroticism,EST10,I often feel blue.
+94,Neuroticism,EST5,I am easily disturbed.
+94,Neuroticism,EST6,I get upset easily.
+94,Neuroticism,EST8,I have frequent mood swings.
+94,Extraversion,EXT2,I prefer to listen more than I speak.
+94,Extraversion,EXT4,I keep in the background.
+94,Extraversion,EXT8,I don't like to draw attention to myself.
+94,Extraversion,EXT9,I don't mind being the center of attention.
+94,Openness,OPN4,I am not interested in abstract ideas.
+94,Openness,OPN5,I have excellent ideas.
+94,Openness,OPN9,I spend time reflecting on things.
+95,Agreeableness,AGR1,I feel little concern for others.
+95,Agreeableness,AGR10,I make people feel at ease.
+95,Agreeableness,AGR2,I am interested in people.
+95,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+95,Conscientiousness,CSN3,I pay attention to details.
+95,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+95,Conscientiousness,CSN8,I am currently working on being more proactive and responsible in fulfilling my duties.
+95,Conscientiousness,CSN9,I follow a schedule.
+95,Neuroticism,EST10,I often feel blue.
+95,Neuroticism,EST5,I am easily disturbed.
+95,Neuroticism,EST6,I get upset easily.
+95,Neuroticism,EST7,I change my mood a lot.
+95,Extraversion,EXT10,I am quiet around strangers.
+95,Extraversion,EXT3,I feel comfortable around people.
+95,Extraversion,EXT8,I don't like to draw attention to myself.
+95,Extraversion,EXT9,I don't mind being the center of attention.
+95,Openness,OPN10,I am full of ideas.
+95,Openness,OPN4,I am not interested in abstract ideas.
+95,Openness,OPN7,I am quick to understand things.
+95,Openness,OPN9,I spend time reflecting on things.
+96,Agreeableness,AGR10,I make people feel at ease.
+96,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+96,Agreeableness,AGR4,I sympathize with others' feelings.
+96,Agreeableness,AGR8,I take time out for others.
+96,Conscientiousness,CSN1,I am always prepared.
+96,Conscientiousness,CSN10,I am exacting in my work.
+96,Conscientiousness,CSN3,I pay attention to details.
+96,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+96,Neuroticism,EST2,I am relaxed most of the time.
+96,Neuroticism,EST4,I seldom feel blue.
+96,Neuroticism,EST5,I am easily disturbed.
+96,Neuroticism,EST7,I change my mood a lot.
+96,Extraversion,EXT4,I keep in the background.
+96,Extraversion,EXT5,I start conversations.
+96,Extraversion,EXT6,I have little to say.
+96,Extraversion,EXT8,I don't like to draw attention to myself.
+96,Openness,OPN4,I am not interested in abstract ideas.
+96,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+96,Openness,OPN7,I am quick to understand things.
+96,Openness,OPN9,I spend time reflecting on things.
+97,Agreeableness,AGR1,I feel little concern for others.
+97,Agreeableness,AGR10,I make people feel at ease.
+97,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+97,Agreeableness,AGR6,I have a soft heart.
+97,Agreeableness,AGR9,I feel others' emotions.
+97,Conscientiousness,CSN1,I am always prepared.
+97,Conscientiousness,CSN3,I pay attention to details.
+97,Conscientiousness,CSN4,I have a creative way of arranging things that may appear messy.
+97,Conscientiousness,CSN7,I like order.
+97,Neuroticism,EST4,I seldom feel blue.
+97,Neuroticism,EST6,I get upset easily.
+97,Neuroticism,EST8,I have frequent mood swings.
+97,Neuroticism,EST9,I have a low tolerance for irritation.
+97,Extraversion,EXT2,I prefer to listen more than I speak.
+97,Extraversion,EXT4,I keep in the background.
+97,Extraversion,EXT5,I start conversations.
+97,Extraversion,EXT8,I don't like to draw attention to myself.
+97,Openness,OPN5,I have excellent ideas.
+97,Openness,OPN8,I have a tendency to incorporate complex vocabulary in my communication.
+97,Openness,OPN9,I spend time reflecting on things.
+98,Agreeableness,AGR1,I feel little concern for others.
+98,Agreeableness,AGR10,I make people feel at ease.
+98,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+98,Agreeableness,AGR4,I sympathize with others' feelings.
+98,Conscientiousness,CSN1,I am always prepared.
+98,Conscientiousness,CSN10,I am exacting in my work.
+98,Conscientiousness,CSN3,I pay attention to details.
+98,Conscientiousness,CSN5,I get chores done right away.
+98,Neuroticism,EST1,I get stressed out easily.
+98,Neuroticism,EST10,I often feel blue.
+98,Neuroticism,EST7,I change my mood a lot.
+98,Neuroticism,EST9,I have a low tolerance for irritation.
+98,Extraversion,EXT2,I prefer to listen more than I speak.
+98,Extraversion,EXT3,I feel comfortable around people.
+98,Extraversion,EXT5,I start conversations.
+98,Extraversion,EXT8,I don't like to draw attention to myself.
+98,Openness,OPN1,I have a rich vocabulary.
+98,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+98,Openness,OPN7,I am quick to understand things.
+98,Openness,OPN9,I spend time reflecting on things.
+99,Agreeableness,AGR10,I make people feel at ease.
+99,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+99,Agreeableness,AGR6,I have a soft heart.
+99,Agreeableness,AGR8,I take time out for others.
+99,Agreeableness,AGR9,I feel others' emotions.
+99,Conscientiousness,CSN1,I am always prepared.
+99,Conscientiousness,CSN10,I am exacting in my work.
+99,Conscientiousness,CSN3,I pay attention to details.
+99,Conscientiousness,CSN6,I am actively working on consistently returning items to their rightful positions.
+99,Neuroticism,EST10,I often feel blue.
+99,Neuroticism,EST3,I worry about things.
+99,Neuroticism,EST5,I am easily disturbed.
+99,Neuroticism,EST7,I change my mood a lot.
+99,Extraversion,EXT2,I prefer to listen more than I speak.
+99,Extraversion,EXT4,I keep in the background.
+99,Extraversion,EXT8,I don't like to draw attention to myself.
+99,Extraversion,EXT9,I don't mind being the center of attention.
+99,Openness,OPN4,I am not interested in abstract ideas.
+99,Openness,OPN6,I am currently exploring ways to enhance and stimulate my imagination.
+99,Openness,OPN9,I spend time reflecting on things.
+100,Agreeableness,AGR10,I make people feel at ease.
+100,Agreeableness,AGR2,I am interested in people.
+100,Agreeableness,AGR3,I strive to uplift and empower others rather than bringing them down
+100,Agreeableness,AGR8,I take time out for others.
+100,Conscientiousness,CSN2,I prefer to have my belongings conveniently accessible in various locations.
+100,Conscientiousness,CSN3,I pay attention to details.
+100,Conscientiousness,CSN7,I like order.
+100,Conscientiousness,CSN9,I follow a schedule.
+100,Neuroticism,EST1,I get stressed out easily.
+100,Neuroticism,EST4,I seldom feel blue.
+100,Neuroticism,EST5,I am easily disturbed.
+100,Neuroticism,EST7,I change my mood a lot.
+100,Extraversion,EXT3,I feel comfortable around people.
+100,Extraversion,EXT5,I start conversations.
+100,Extraversion,EXT7,I talk to a lot of different people at parties.
+100,Extraversion,EXT8,I don't like to draw attention to myself.
+100,Openness,OPN1,I have a rich vocabulary.
+100,Openness,OPN3,I have a vivid imagination.
+100,Openness,OPN7,I am quick to understand things.
+100,Openness,OPN9,I spend time reflecting on things.
